@@ -68,7 +68,7 @@
 
       "Ad_format_fi_detail_1"   : "rectangle",
       "Ad_format_fi_detail_2"   : "native",
-      "Ad_format_fi_detail_3"   : "native",
+      "Ad_format_fi_detail_3"   : "rectangle",
 	  
       "Enable_backgroundAds": "no",
 
@@ -77,10 +77,10 @@
       "NewApp_title": "App update!",
       "NewApp_message": "please update to new version!",
 
-      "Gdpr_activate": "no",
+      "Gdpr_activate": "yes",
       "Gdpr_id": "pub-3940256099942544",
 
-      "Cpa_activate": "no",
+      "Cpa_activate": "yes",
       "Cpa_text": "Claim Your Free Diamonds Here",
       "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
       "Cpa_url": "https://www.google.com/",
