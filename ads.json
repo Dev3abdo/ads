@@ -42,15 +42,15 @@
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "facebook ironsource",
+      "Active_Ad_network": "facebook",
 
-      "Ad__1__Interstitial": "ironsource",
-      "Ad__2__Interstitial": "ironsource",
-      "Ad__3__Interstitial": "ironsource",
-      "Ad__4__Interstitial": "ironsource",
+      "Ad__1__Interstitial": "facebook",
+      "Ad__2__Interstitial": "facebook",
+      "Ad__3__Interstitial": "facebook",
+      "Ad__4__Interstitial": "facebook",
 
 
-      "Ad__X__Banner": "ironsource",
+      "Ad__X__Banner": "facebook",
       "Ad__X__Native": "facebook",
       "Ad__X__Rectangle": "facebook",
 
@@ -66,9 +66,9 @@
 
       "Show_Wallpapers_Button"     : "no",
 
-      "Ad_format_fi_detail_1"   : "rectangle",
+      "Ad_format_fi_detail_1"   : "native",
       "Ad_format_fi_detail_2"   : "native",
-      "Ad_format_fi_detail_3"   : "rectangle",
+      "Ad_format_fi_detail_3"   : "native",
 	  
       "Enable_backgroundAds": "no",
 
