@@ -40,17 +40,17 @@
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "admob ironsource",
+      "Active_Ad_network": "ironsource",
 
       "Ad__1__Interstitial": "ironsource",
-      "Ad__2__Interstitial": "facebook",
-      "Ad__3__Interstitial": "facebook",
-      "Ad__4__Interstitial": "facebook",
+      "Ad__2__Interstitial": "ironsource",
+      "Ad__3__Interstitial": "ironsource",
+      "Ad__4__Interstitial": "ironsource",
 
 
       "Ad__X__Banner": "ironsource",
-      "Ad__X__Native": "admob",
-      "Ad__X__Rectangle": "admob",
+      "Ad__X__Native": "ironsource",
+      "Ad__X__Rectangle": "ironsource",
 
 
       "Test_mode_unity"     : "yes",
