@@ -2,7 +2,7 @@
   "Json_Data": [
     {
 
-      "HouseAds_package": "com.kiloo.subwaysurf",
+      "HouseAds_package": "com.dev3a.freediamonds",
       "HouseAds_title": "Subway Surfers 35",
       "HouseAds_discripton": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
       "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
@@ -31,16 +31,16 @@
       "Unity_interstitial_Placement": "YOUR_PLACEMENT_ID",
 
 
-      "IronSource_App_Key": "XXXXX ID Dyalk",
-      "IronSource_interstitial": "YOUR_PLACEMENT_ID",
-      "IronSource_banner": "YOUR_PLACEMENT_ID",
+      "IronSource_App_Key": "15d8220d5",
+      "IronSource_interstitial": "DefaultInterstitial",
+      "IronSource_banner": "DefaultBanner",
  
 
       "Appodeal_id": "XXXXX ID Dyalk",
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "admob facebook",
+      "Active_Ad_network": "IronSource",
 
       "Ad__1__Interstitial": "facebook",
       "Ad__2__Interstitial": "facebook",
@@ -59,7 +59,7 @@
       "Show_help_toast"     : "yes",
 
       "ClicksTo_showAd": "2",
-      "Active_PackageName": "com.mygfx.bidguide",
+      "Active_PackageName": "com.dev3a.freediamonds",
       "OnBack_ClicksTo_showAd": "10",
 
       "Show_Wallpapers_Button"     : "yes",
