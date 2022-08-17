@@ -40,17 +40,17 @@
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "admob ironSource",
+      "Active_Ad_network": "admob ironsource",
 
-      "Ad__1__Interstitial": "ironSource",
+      "Ad__1__Interstitial": "ironsource",
       "Ad__2__Interstitial": "facebook",
       "Ad__3__Interstitial": "facebook",
       "Ad__4__Interstitial": "facebook",
 
 
-      "Ad__X__Banner": "ironSource",
+      "Ad__X__Banner": "ironsource",
       "Ad__X__Native": "admob",
-      "Ad__X__Rectangle": "facebook",
+      "Ad__X__Rectangle": "admob",
 
 
       "Test_mode_unity"     : "yes",
@@ -58,7 +58,7 @@
       "Debug_mode_facebook" : "no",
       "Show_help_toast"     : "yes",
 
-      "ClicksTo_showAd": "2",
+      "ClicksTo_showAd": "0",
       "Active_PackageName": "com.dev3a.freediamonds",
       "OnBack_ClicksTo_showAd": "0",
 
