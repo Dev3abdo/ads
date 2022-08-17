@@ -72,7 +72,7 @@
 	  
       "Enable_backgroundAds": "no",
 
-      "App_suspended": "yes",
+      "App_suspended": "no",
       "NewApp_package": "com.facebook.lite",
       "NewApp_title": "App update!",
       "NewApp_message": "please update to new version!",
