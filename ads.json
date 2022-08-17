@@ -40,7 +40,7 @@
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "ironSource",
+      "Active_Ad_network": "admob ironSource",
 
       "Ad__1__Interstitial": "ironSource",
       "Ad__2__Interstitial": "facebook",
