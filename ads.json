@@ -18,7 +18,7 @@
       "Facebook_interstitial": "565381551803946_565381801803921",
       "Facebook_banner": "565381551803946_565382871803814",
       "Facebook_native": "565381551803946_577881337220634",
-      "Facebook_250": "XXXXX ID Dyalk",
+      "Facebook_250": "565381551803946_577891633886271",
 
 
       "Mopub_interstitial": "XXXXX ID Dyalk ",
@@ -66,7 +66,7 @@
 
       "Show_Wallpapers_Button"     : "no",
 
-      "Ad_format_fi_detail_1"   : "native",
+      "Ad_format_fi_detail_1"   : "rectangle",
       "Ad_format_fi_detail_2"   : "native",
       "Ad_format_fi_detail_3"   : "native",
 	  
