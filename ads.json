@@ -15,10 +15,10 @@
       "Admob_250": "ca-app-pub-3940256099942544/6300978111",
 	  
 	  
-      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Facebook_250": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_interstitial": "XXXXX ID Dyalk",
+      "Facebook_banner": "XXXXX ID Dyalk",
+      "Facebook_native": "XXXXX ID Dyalk",
+      "Facebook_250": "XXXXX ID Dyalk",
 
 
       "Mopub_interstitial": "XXXXX ID Dyalk ",
@@ -40,16 +40,16 @@
       "Startapp_id": "XXXXX ID Dyalk",
 
 
-      "Active_Ad_network": "IronSource",
+      "Active_Ad_network": "ironSource",
 
-      "Ad__1__Interstitial": "facebook",
+      "Ad__1__Interstitial": "ironSource",
       "Ad__2__Interstitial": "facebook",
       "Ad__3__Interstitial": "facebook",
       "Ad__4__Interstitial": "facebook",
 
 
-      "Ad__X__Banner": "facebook",
-      "Ad__X__Native": "facebook",
+      "Ad__X__Banner": "ironSource",
+      "Ad__X__Native": "ironSource",
       "Ad__X__Rectangle": "facebook",
 
 
@@ -60,9 +60,9 @@
 
       "ClicksTo_showAd": "2",
       "Active_PackageName": "com.dev3a.freediamonds",
-      "OnBack_ClicksTo_showAd": "10",
+      "OnBack_ClicksTo_showAd": "0",
 
-      "Show_Wallpapers_Button"     : "yes",
+      "Show_Wallpapers_Button"     : "no",
 
       "Ad_format_fi_detail_1"   : "rectangle",
       "Ad_format_fi_detail_2"   : "native",
@@ -78,7 +78,7 @@
       "Gdpr_activate": "no",
       "Gdpr_id": "pub-3940256099942544",
 
-      "Cpa_activate": "yes",
+      "Cpa_activate": "no",
       "Cpa_text": "Claim Your Free Diamonds Here",
       "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
       "Cpa_url": "https://www.google.com/",
