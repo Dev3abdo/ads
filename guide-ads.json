@@ -1,0 +1,156 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+
+      "Active_Ads": "startapp",
+		  
+      "IronSource_App_Key": "XXXXXXXX",
+	  
+      "IronSource_interstitial": "DefaultInterstitial",
+      "IronSource_banner": "DefaultBanner",
+	  
+      "Startapp_id": "206768024"
+		
+      }
+
+    ],
+	
+    "items": [
+      {
+        "title": "What is Android ?",
+        "image": "https://www.goodfirms.co/glossary/wp-content/uploads/2017/07/What-is-Android.png"
+      },
+      {
+        "title": "Getting started with Android",
+        "image": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Samsung-Galaxy-Note-10-quick-settings-menu-in-hand-1200x675.jpg"
+      },
+      {
+        "title": "This is Title 3",
+        "image": "https://business.pinterest.com/sites/default/files/blog_head/2019-02/2018-quicktips-green-blog-header.jpg"
+      },
+      {
+        "title": "This is Title 4",
+        "image": "https://www.alfiesdrivingschool.com/wp-content/uploads/2018/01/3-TOP-DRIVING-TEST-TIPS.jpg"
+      }
+    ],
+    "content0": [
+      {
+        "ordered": "image_text",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Introducing to Android System :",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "https://www.goodfirms.co/glossary/wp-content/uploads/2017/07/What-is-Android.png",
+        "text": "Android has evolved a lot over the years and has quickly become the dominant mobile platform across the globe. While most of us know exactly what Android is and how to use it, there are still a number of folks that are new to Google’s mobile OS, finally ditching that old-school mobile phone or making the move from an iPhone or another Android rival.",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Huawei-P30-Pro-vs-Samsung-Galaxy-S10-Plus-front-19-of-60-1200x676.jpg",
+        "text": "Android isn’t a phone or an application, but an operating system based on the Linux kernel. No clue what that is? In its most simplistic definition, Linux is an operating system most commonly found on servers and desktop computers. Android isn’t just a version of Linux, due to the many changes found under the hood, but it is related. So Android is an operating system designed with mobile in mind, the place where your phone’s functions and applications live. Everything you see on the display of your device is a part of the operating system. When you get a call, text message, or email, the OS processes that information and puts it in a readable format",
+        "isLink": "true",
+        "link_title": "visit link",
+        "setLink": "https://www.android.com/what-is-android/",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#6e50d9",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Getting started with Android :",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Pixel-3-XL-product-photo-front-home-screen-with-case-1200x675.jpg",
+        "text": "Before we begin, it’s important to note that the steps described in this post are done using a device running stock Android, that is, without a UI overlay. In other words, there may be a few differences between your device and what is shown below, but the options and settings are similar and should be easy to follow along. Starting at the beginning, there are a few steps you’ll need to do to set up your Android device. When you switch on the device for the first time, you’ll be greeted with a Welcome screen, where you will have to select a language. Scroll up or down to make your selection, and then go to the next step by tapping the arrow/play button.",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Once you’ve completed the simple steps to set up your device, you will arrive at the home screen. Once again, the actual look of the home screen (its icons, design elements, etc) may differ significantly depending on what device you have. Most home screen experiences will have the same basic elements, however, including an app drawer, notification shade, and a dock with a few key apps such as the dialer, messaging, etc. Keep in mind that some Chinese OEMs do remove the app drawer from the equation, however. This means that all the apps you have installed on a phone are placed on the home screens, just like on iPhones.",
+        "isLink": "true",
+        "link_title": "visit link",
+        "setLink": "https://www.android.com/what-is-android/",
+        "isNative": "xxxxx"
+      }
+    ]
+  }
+}
