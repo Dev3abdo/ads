@@ -3,9 +3,9 @@
     "AdsController": [
       {
 
-      "Active_Ads": "startapp",
+      "Active_Ads": "ironsource",
 		  
-      "IronSource_App_Key": "XXXXXXXX",
+      "IronSource_App_Key": "171218cdd",
 	  
       "IronSource_interstitial": "DefaultInterstitial",
       "IronSource_banner": "DefaultBanner",
