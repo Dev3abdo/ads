@@ -23,7 +23,7 @@
       },
       {
         "title": "How Dynamic Island works",
-        "image": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Samsung-Galaxy-Note-10-quick-settings-menu-in-hand-1200x675.jpg"
+        "image": "https://images.macrumors.com/t/5qKiaci3OHNC90BDKib7rqQB4hI=/400x0/article-new/2022/09/iphone-14-pro-blue-image.jpg"
       },
       {
         "title": "This is Title 3",
@@ -161,10 +161,10 @@ trigger animations on Dynamic Island.",
         "image_width": "150",
         "image_hieght": "100",
         "image_link": "",
-        "text": "Once you’ve completed the simple steps to set up your device, you will arrive at the home screen. Once again, the actual look of the home screen (its icons, design elements, etc) may differ significantly depending on what device you have. Most home screen experiences will have the same basic elements, however, including an app drawer, notification shade, and a dock with a few key apps such as the dialer, messaging, etc. Keep in mind that some Chinese OEMs do remove the app drawer from the equation, however. This means that all the apps you have installed on a phone are placed on the home screens, just like on iPhones.",
+        "text": "",
         "isLink": "true",
         "link_title": "visit link",
-        "setLink": "https://www.android.com/what-is-android/",
+        "setLink": "",
         "isNative": "xxxxx"
       }
     ]
