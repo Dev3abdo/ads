@@ -19,7 +19,7 @@
     "items": [
       {
         "title": "What is apples dynamic island?",
-        "image": "https://www.goodfirms.co/glossary/wp-content/uploads/2017/07/What-is-Android.png"
+        "image": "https://miro.medium.com/max/1400/1*63ilUgCl3N9cWTG69gMkxA.jpeg"
       },
       {
         "title": "Getting started with Android",
@@ -89,8 +89,8 @@ and sports scores) and take control of apps.",
         "text_size": "15",
         "image_width": "150",
         "image_hieght": "100",
-        "image_link": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/Huawei-P30-Pro-vs-Samsung-Galaxy-S10-Plus-front-19-of-60-1200x676.jpg",
-        "text": "Android isn’t a phone or an application, but an operating system based on the Linux kernel. No clue what that is? In its most simplistic definition, Linux is an operating system most commonly found on servers and desktop computers. Android isn’t just a version of Linux, due to the many changes found under the hood, but it is related. So Android is an operating system designed with mobile in mind, the place where your phone’s functions and applications live. Everything you see on the display of your device is a part of the operating system. When you get a call, text message, or email, the OS processes that information and puts it in a readable format",
+        "image_link": "",
+        "text": "",
         "isLink": "true",
         "link_title": "visit link",
         "setLink": "https://www.android.com/what-is-android/",
