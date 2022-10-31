@@ -18,7 +18,7 @@
 	
     "items": [
       {
-        "title": "What is Android ?",
+        "title": "What is apples dynamic island?",
         "image": "https://www.goodfirms.co/glossary/wp-content/uploads/2017/07/What-is-Android.png"
       },
       {
@@ -48,7 +48,7 @@
         "image_width": "150",
         "image_hieght": "100",
         "image_link": "",
-        "text": "Introducing to Android System :",
+        "text": "What is apples dynamic island?",
         "isLink": "false",
         "link_title": "",
         "setLink": "",
@@ -66,8 +66,12 @@
         "text_size": "15",
         "image_width": "150",
         "image_hieght": "100",
-        "image_link": "https://www.goodfirms.co/glossary/wp-content/uploads/2017/07/What-is-Android.png",
-        "text": "Android has evolved a lot over the years and has quickly become the dominant mobile platform across the globe. While most of us know exactly what Android is and how to use it, there are still a number of folks that are new to Google’s mobile OS, finally ditching that old-school mobile phone or making the move from an iPhone or another Android rival.",
+        "image_link": "https://miro.medium.com/max/1400/1*63ilUgCl3N9cWTG69gMkxA.jpeg",
+        "text": "Dynamic lsland turns Applel's boring notch, behind
+which the FacelD camera sits, into an excitingly
+interactive area that lets users monitor important app
+activity (such as delivery service ETA, music playback,
+and sports scores) and take control of apps.",
         "isLink": "false",
         "link_title": "",
         "setLink": "",
