@@ -22,7 +22,7 @@
         "image": "https://miro.medium.com/max/1400/1*63ilUgCl3N9cWTG69gMkxA.jpeg"
       },
       {
-        "title": "Getting started with Android",
+        "title": "How Dynamic Island works",
         "image": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Samsung-Galaxy-Note-10-quick-settings-menu-in-hand-1200x675.jpg"
       },
       {
@@ -111,7 +111,7 @@ and sports scores) and take control of apps.",
         "image_width": "150",
         "image_hieght": "100",
         "image_link": "",
-        "text": "Getting started with Android :",
+        "text": "How Dynamic Island works",
         "isLink": "false",
         "link_title": "",
         "setLink": "",
@@ -129,8 +129,20 @@ and sports scores) and take control of apps.",
         "text_size": "15",
         "image_width": "150",
         "image_hieght": "100",
-        "image_link": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Pixel-3-XL-product-photo-front-home-screen-with-case-1200x675.jpg",
-        "text": "Before we begin, it’s important to note that the steps described in this post are done using a device running stock Android, that is, without a UI overlay. In other words, there may be a few differences between your device and what is shown below, but the options and settings are similar and should be easy to follow along. Starting at the beginning, there are a few steps you’ll need to do to set up your Android device. When you switch on the device for the first time, you’ll be greeted with a Welcome screen, where you will have to select a language. Scroll up or down to make your selection, and then go to the next step by tapping the arrow/play button.",
+        "image_link": "https://images.macrumors.com/t/5qKiaci3OHNC90BDKib7rqQB4hI=/400x0/article-new/2022/09/iphone-14-pro-blue-image.jpg",
+        "text": "One thing that's impossible not to notice is how
+smooth Dynamic Island's animations are. When you
+close an app that has Dynamic Island support, it goes
+straight to it. The cutout becomes larger depending on
+the action the app offers. For example, when you set a
+timer, iPhone shows the progress in real time at the top
+of the screen.\10\10A long press on Dynamic lsland
+expands that app's widget with some basic controls.
+For timers, you can pause or stop them directly from
+Dynamic Island. The same applies to apps like Music
+and FaceTime. Some system actions like enabling a
+Focus mode or putting the iPhone in the charger also
+trigger animations on Dynamic Island.",
         "isLink": "false",
         "link_title": "",
         "setLink": "",
