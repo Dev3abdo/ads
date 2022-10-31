@@ -88,7 +88,7 @@
         "image_hieght": "100",
         "image_link": "",
         "text": "",
-        "isLink": "true",
+        "isLink": "false",
         "link_title": "visit link",
         "setLink": "",
         "isNative": "xxxxx"
@@ -147,7 +147,7 @@
         "image_hieght": "100",
         "image_link": "",
         "text": "",
-        "isLink": "true",
+        "isLink": "false",
         "link_title": "visit link",
         "setLink": "",
         "isNative": "xxxxx"
@@ -206,7 +206,7 @@
         "image_hieght": "100",
         "image_link": "https://business.pinterest.com/sites/default/files/blog_head/2019-02/2018-quicktips-green-blog-header.jpg",
         "text": "",
-        "isLink": "true",
+        "isLink": "false",
         "link_title": "visit link",
         "setLink": "",
         "isNative": "xxxxx"
@@ -265,7 +265,7 @@
         "image_hieght": "100",
         "image_link": "",
         "text": "",
-        "isLink": "true",
+        "isLink": "false",
         "link_title": "visit link",
         "setLink": "",
         "isNative": "xxxxx"
