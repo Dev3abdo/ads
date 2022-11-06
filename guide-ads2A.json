@@ -1,9 +1,9 @@
 {
     "Ads": {
-        "show_ads": false,
-        "bannerAd": "unity",
-        "InterAd": "admob",
-        "NativeAd": "max",
+        "show_ads": true,
+        "bannerAd": "max",
+        "InterAd": "max",
+        "NativeAd": "facebook",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -25,95 +25,95 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://www.google.com/",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Kaskapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+                "title": "About Youcine",
+                "image": "https://www.us7p.com/wp-content/uploads/2022/08/20220119_013235.jpg",
 				"detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://www.us7p.com/wp-content/uploads/2022/08/20220119_013235.jpg",
+					"text": "Youcine is a newly launched app with all the latest features that users want in a video streaming application. As you all know, there is a huge collection of movies, series, anime, and TV shows available in the market. And getting them all in one place is kinda impossible. But with the Youcine app now it is possible.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://static.wixstatic.com/media/430a86_629e458242134fd5b22c68a3d435f6ef~mv2.png/v1/crop/x_2,y_0,w_537,h_439/fill/w_560,h_458,al_c,lg_1,q_85,enc_auto/honge-cp-1.png",
+					"text": "They all offer you almost all the popular, latest, and iconic content that users love to watch. As new stuff is launched every day, the app also updates its content with all the latest and new content to provide the ultimate watch experience to the users.",
 					"native": true,
 					"cpa_title": "",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "https://fantom.fun/nakoko/2.jpg",
+                "title": "Advantages Of Youcine",
+                "image": "https://azforum.com.br/wp-content/uploads/2022/01/Screenshot_2022.01.11_14.00.30.980-1024x576.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://azforum.com.br/wp-content/uploads/2022/01/Screenshot_2022.01.11_14.00.30.980-1024x576.jpg",
+					"text": "•No register or login is required. •No subscription is needed. •Enjoy all your favorite content for free. •Download your favorite content and enjoy them later anytime and anywhere you want. All the content is well organized in the categories. •Interactive user interface.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://melhores-filmes-netflix.com/wp-content/uploads/2022/01/Captura-de-Pantalla-2021-07-31-a-las-10.13.57-1024x541-1.png",
+					"text": "•Easy to use. •Huge collection of Movies, TV shows, Kids section, Anime, Trailers, and, special content too. •Safe and secure to use. Latest content update every day. •Built-in video player. •Supports subtitles in all moves and other videos.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "https://fantom.fun/nakoko/3.jpg",
+                "title": "How To Download And Install?",
+                "image": "https://www.apptuts.net/wp-content/uploads/2022/08/YouCine-Apk-filmes-series-gratis.png",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://www.apptuts.net/wp-content/uploads/2022/08/YouCine-Apk-filmes-series-gratis.png",
+					"text": "The best option is to download straight from yourbrowser. Below is a helpful illustrated guide onhow to download APK files.•Tap on the Download button below.•Now you will be directed to the download page.There are options to download the APK file orinstall it from Play Store.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://static.wixstatic.com/media/430a86_9b52bdf32b8a43c8a0f26011fe02013f~mv2.png/v1/fill/w_420,h_280,al_c,lg_1,q_85,enc_auto/1-1-tv.png",
+					"text": "•Tap on Download APK. •A confirmation window will pop up depending on your browser preferences. •Tap on Download again and save the file on your device.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "https://fantom.fun/nakoko/4.jpg",
+                "title": "FAQ (Frequently Asked Questions)",
+                "image": "https://cdn6.aptoide.com/imgs/f/6/6/f6689df2e9007d0e8f28c31771475577_feature_graphic.png",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://cdn6.aptoide.com/imgs/f/6/6/f6689df2e9007d0e8f28c31771475577_feature_graphic.png",
+					"text": "Q. Can it be downloaded for free? Ans. Yes! Users do not need to pay any amount to download this file. Q. Is it safe to use? Ans. Yes! All security threats have been removed. The worm has been fixed. Q. What about advertisements? Ans. No ads will be found while using this version.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://cdn.bestdroidplayer.com/wp-content/uploads/2019/10/how_to_install_teatv_firestick.jpg",
+					"text": "Q. What is APK Download?Ans: The APK extension is used for the Androidpackage kit, and the file format used to install theAndroid application (such as EXE for Windows).If you want to install an APK, You have tomanually download and run the File (a processcalled sideload).",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				}
 				]
             }, {
-                "title": "STEP5",
-                "image": "https://fantom.fun/nakoko/5.jpg",
+                "title": "Key Features:",
+                "image": "https://jogosapkmod.com/wp-content/uploads/2022/01/youcine-apk-2022.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://jogosapkmod.com/wp-content/uploads/2022/01/youcine-apk-2022.jpg",
+					"text": "•Nothing to register. •Subscription is not required. •Download for free. •You can choose from different slot games and card games upon installing the app.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://blogdojuares.com.br/images/noticias/img_67585_foto_1_g.jpg",
+					"text": "•There are several categories of games. •Ads from third parties are not permitted. This game has a mobile-friendly interface.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://www.youcine.net"
 				}
 				]
             }
