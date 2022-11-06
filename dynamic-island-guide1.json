@@ -1,21 +1,21 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "unity",
-        "InterAd": "admob",
+        "bannerAd": "max",
+        "InterAd": "max",
         "NativeAd": "max",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "ironsource_api": "1011dee21",
-        "max_banner": "6db1491f2e21970c",
-        "max_inter": "812b82d9e0c7cb7f",
-        "max_native": "64ea2f2ef41edb34",
+        "facebook_banner": "",
+        "facebook_inter": "",
+        "facebook_native": "",
+        "ironsource_api": "",
+        "max_banner": "14c566807903a5ea",
+        "max_inter": "0f4acaacfda69047",
+        "max_native": "de3c690724af177f",
         "unityTest": true,
-        "unityGameID": "4398793",
+        "unityGameID": "",
         "unityBanner": "Banner",
         "unityInter": "Inter",
         "intersitial_click_activites": 1,
@@ -25,95 +25,102 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://www.google.com/",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Kaskapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+                "title": "What is apples dynamic island?",
+                "image": "https://miro.medium.com/max/1400/1*63ilUgCl3N9cWTG69gMkxA.jpeg",
 				"detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://miro.medium.com/max/1400/1*63ilUgCl3N9cWTG69gMkxA.jpeg",
+					"text": "Dynamic lsland turns Applel's boring notch, behind which the FacelD camera sits, into an excitingly interactive area that lets users monitor important app activity (such as delivery service ETA, music playback, and sports scores) and take control of apps.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.jamworks.dynamicspot&hl=en&gl=US"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "",
-					"cpa_url": "https://google.com"
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "Open",
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "https://fantom.fun/nakoko/2.jpg",
+                "title": "How Dynamic Island works",
+                "image": "https://images.macrumors.com/t/5qKiaci3OHNC90BDKib7rqQB4hI=/400x0/article-new/2022/09/iphone-14-pro-blue-image.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://images.macrumors.com/t/5qKiaci3OHNC90BDKib7rqQB4hI=/400x0/article-new/2022/09/iphone-14-pro-blue-image.jpg",
+					"text": "One thing that's impossible not to notice is how smooth Dynamic Island's animations are. When you close an app that has Dynamic Island support, it goes straight to it. The cutout becomes larger depending on the action the app offers. For example, when you set a timer, iPhone shows the progress in real time at the top of the screen.\10\10A long press on Dynamic lsland expands that app's widget with some basic controls. For timers, you can pause or stop them directly from Dynamic Island. The same applies to apps like Music and FaceTime. Some system actions like enabling a Focus mode or putting the iPhone in the charger also trigger animations on Dynamic Island.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "",
+					"text": "",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "https://fantom.fun/nakoko/3.jpg",
+                "title": "Dynamic Island Shape",
+                "image": "https://business.pinterest.com/sites/default/files/blog_head/2019-02/2018-quicktips-green-blog-header.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://business.pinterest.com/sites/default/files/blog_head/2019-02/2018-quicktips-green-blog-header.jpg",
+					"text": "Dynamic lsland turns Applel's boring notch, behind which the FacelD camera sits, into an excitingly interactive area that lets users monitor important app activity (such as delivery service ETA, music playback, and sports scores) and take control of apps.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "",
+					"text": "",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "https://fantom.fun/nakoko/4.jpg",
+                "title": "Ways the Dynamic lsland Can Be Used",
+                "image": "https://static.toiimg.com/thumb/msid-94077761,imgsize-244468,width-400,resizemode-4/94077761.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://static.toiimg.com/thumb/msid-94077761,imgsize-244468,width-400,resizemode-4/94077761.jpg",
+					"text": "So far, we only have Applel's demonstrations to goon, but it looks like the Dynamic Island can show allkinds of different information. Wel're rounded up theways itl's been used so far.\1O\10Expanded into alarge rectangle to show upcoming Maps directionswithout having to open the Maps app.\10\1ODisplayingMaps directions ina smaller pill-shaped interface forwhen you just need a quick glance at the next turn.110110Square shaped for an Apple Pay paymentconfirmation.\10\10Showing a music waveform andtime remaining on a song that\'s playing.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "https://miro.medium.com/max/1400/1*p8R2sD-y6knLrj8xR50VEg.png",
+					"text": "Dynamic Island Interaction: When tapped, the Dynamic Island expands to becomelarger so you can interact with the content that it\'soffering at the current time, and when youlre in anapp, you can swipe up to send the app\'s content tothe Dynamic Island so you can get back to the Homescreen.",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP5",
-                "image": "https://fantom.fun/nakoko/5.jpg",
+                "title": "Split Island",
+                "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Live-Activities-Dynamic-Island-iOS-16.1-iPhone.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Live-Activities-Dynamic-Island-iOS-16.1-iPhone.jpg",
+					"text": "Because the TrueDepth camera system is actuallyhoused in two separate cutouts that are mergedthrough software, the Dynamic lsland can do a neattrick where it separates into a small pill on the left anda circle on the right, both of which are able to displaydifferent information at the same time, such as musiccontrols and a timer.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/09/image-32.jpg",
+					"text": "Third-Party App Support: Apple is allowing third-party app developers tointegrate their apps into the Dynamic Island so youcan access third-party app content as well as Applel'sown app content. Third-party app Flighty, for example,is able to put your flight information in the DynamicIsland so you can see it with a tap.",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }
