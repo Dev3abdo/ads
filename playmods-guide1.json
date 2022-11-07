@@ -1,21 +1,21 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "unity",
-        "InterAd": "admob",
+        "bannerAd": "max",
+        "InterAd": "max",
         "NativeAd": "max",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "ironsource_api": "1011dee21",
-        "max_banner": "6db1491f2e21970c",
-        "max_inter": "812b82d9e0c7cb7f",
-        "max_native": "64ea2f2ef41edb34",
+        "facebook_banner": "",
+        "facebook_inter": "",
+        "facebook_native": "",
+        "ironsource_api": "",
+        "max_banner": "b3ee56ee245f46e5",
+        "max_inter": "e23fbc3c523ff826",
+        "max_native": "ce7f271c441ab38d",
         "unityTest": true,
-        "unityGameID": "4398793",
+        "unityGameID": "",
         "unityBanner": "Banner",
         "unityInter": "Inter",
         "intersitial_click_activites": 1,
@@ -25,95 +25,95 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://www.google.com/",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Kaskapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+                "title": "Playmods About",
+                "image": "https://play-lh.googleusercontent.com/B_6zNq6hKVDiec6-2duruS2Q3XZFSTNREe-kxmTuCuSW7MG7B69ZZiafEjUt4WmzUw=w720-h310",
 				"detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://play-lh.googleusercontent.com/B_6zNq6hKVDiec6-2duruS2Q3XZFSTNREe-kxmTuCuSW7MG7B69ZZiafEjUt4WmzUw=w720-h310",
+					"text": "The PlayMod App is a versatile game box, here you can find all types of games, from casual to action, from puzzle to adveture. There are so many types of games, no matter you are a light gamer or heavy gamer, you will be satisfied here. In addition to normal games, we also have various game mods. For example, the GTA mod, Minecraft mod, Naruto vs Reaper mod, Naruto shippuden mod, Indonesia bus simulator mod, Melon Playground Mod, people playaround mod PlayMods Apk also makes it easy to manage pre-installed apps on your device.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "",
-					"cpa_url": "https://google.com"
+					"image": "https://play-lh.googleusercontent.com/komOl29BYpMqppjUdZpL7ry2w9E5lLQcY9XIW25MGpa_uUn5cRMunVPGQjNwAiAdD9ON=w720-h310",
+					"text": "You can check if new updates are available for any of your apps, prevent apps from updating, and choose whether to automatically remove mod apps after installing apps or keep them from the SoSoMod store on your device. Each app page contains technical information as well as details provided by the person sharing it. The most important point to check before downloading any app is the phone.",
+					"native": false,
+					"cpa_title": "Open",
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "https://fantom.fun/nakoko/2.jpg",
+                "title": "How to download and install the PlayMod Apk?",
+                "image": "https://ogimgs.apkcombo.org/eyJsb2dvIjoiaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9wTGNqdFVRUjNFdThRU0pRZ3hGZkE5aTNHSXZHY0JMSXk2MFQ2Vl9WeURDVXZaamN4ajFHVVRhbTVuMWQ5VmU3SHc9czIwMCIsInRpdGxlIjogIkRvd25sb2FkIFBsYXlNb2RzIEFQSyJ9/download-playmods-apk",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://ogimgs.apkcombo.org/eyJsb2dvIjoiaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9wTGNqdFVRUjNFdThRU0pRZ3hGZkE5aTNHSXZHY0JMSXk2MFQ2Vl9WeURDVXZaamN4ajFHVVRhbTVuMWQ5VmU3SHc9czIwMCIsInRpdGxlIjogIkRvd25sb2FkIFBsYXlNb2RzIEFQSyJ9/download-playmods-apk",
+					"text": "This unique property ensures that its users are always protected. If you cannot find this app in the Google Play Store, you can always download it from this website. Follow the steps below to install this app on Android devices before completing the idea. Go to Unknown Sources in Settings. After that, go to Security and enable the Security option. You can download any version of the application directly from the third-party website.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "https://www.softlay.com/wp-content/uploads/screenshot-01.jpg",
+					"text": "You can have the app archives of most versions and you can download them according to your needs. Unlike Play Store, downloading is instant, you don't have to wait for the review process, etc. After downloading, there is an APK file on your memory card/system memory. So you can uninstall and reinstall them many times without downloading.",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "https://fantom.fun/nakoko/3.jpg",
+                "title": "Playmods Is Free Store",
+                "image": "https://i.imgur.com/X4wgxV8.png",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://i.imgur.com/X4wgxV8.png",
+					"text": "PlayMod Apk is a store that offers mod apps and games for Android devices for free. This is a ModDroid alternative that does not require a user account to download apps. Their app is also open source, providing the source code so developers can modify it to their heart's content. While PlayMod Apk may not come with as many apps as Moddroid, the collection is great and includes a variety of tools. The interface is simple and organized with tabs for Home, Top, Store, Updates,",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "",
+					"text": "",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "https://fantom.fun/nakoko/4.jpg",
+                "title": "Tutorial How To Get PlayMods",
+                "image": "https://www.androidponsel.com/wp-content/uploads/2022/05/PlayMods.png",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://i.imgur.com/xZll7le.png",
+					"text": "",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "https://i.imgur.com/wYBsR8S.png",
+					"text": "",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP5",
-                "image": "https://fantom.fun/nakoko/5.jpg",
+                "title": "PlayMod Apk Features",
+                "image": "https://i.imgur.com/EXv99Oe.png",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://i.imgur.com/EXv99Oe.png",
+					"text": "The game store is free to download. - Registration is optional. - No subscription is required. - Setting up a shop gives you direct access to countless games. - Including official and modded games.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
+					"image": "",
+					"text": "",
+					"native": false,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }
