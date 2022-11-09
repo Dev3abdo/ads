@@ -39,7 +39,7 @@
 				{
 					"image": "",
 					"text": "",
-					"native": false,
+					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
@@ -57,7 +57,7 @@
 				{
 					"image": "",
 					"text": "",
-					"native": false,
+					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
@@ -75,7 +75,7 @@
 				{
 					"image": "",
 					"text": "",
-					"native": false,
+					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
@@ -93,7 +93,7 @@
 				{
 					"image": "https://miro.medium.com/max/1400/1*p8R2sD-y6knLrj8xR50VEg.png",
 					"text": "Dynamic Island Interaction: When tapped, the Dynamic Island expands to becomelarger so you can interact with the content that it\'soffering at the current time, and when youlre in anapp, you can swipe up to send the app\'s content tothe Dynamic Island so you can get back to the Homescreen.",
-					"native": false,
+					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
@@ -111,7 +111,7 @@
 				{
 					"image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/09/image-32.jpg",
 					"text": "Third-Party App Support: Apple is allowing third-party app developers tointegrate their apps into the Dynamic Island so youcan access third-party app content as well as Applel'sown app content. Third-party app Flighty, for example,is able to put your flight information in the DynamicIsland so you can see it with a tap.",
-					"native": false,
+					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
