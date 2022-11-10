@@ -1,21 +1,21 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "unity",
-        "InterAd": "admob",
+        "bannerAd": "max",
+        "InterAd": "max",
         "NativeAd": "max",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "ironsource_api": "1011dee21",
-        "max_banner": "6db1491f2e21970c",
-        "max_inter": "812b82d9e0c7cb7f",
-        "max_native": "64ea2f2ef41edb34",
+        "facebook_banner": "",
+        "facebook_inter": "",
+        "facebook_native": "",
+        "ironsource_api": "",
+        "max_banner": "dba0be675542bbe0",
+        "max_inter": "4305ec64ec484e15",
+        "max_native": "1ec5cf6c673ecad4",
         "unityTest": true,
-        "unityGameID": "4398793",
+        "unityGameID": "",
         "unityBanner": "Banner",
         "unityInter": "Inter",
         "intersitial_click_activites": 1,
@@ -25,95 +25,95 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://www.google.com/",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Kaskapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+                "title": "WHAT IS THE HIGHEST ANTUTU BENCHMARK SCORE?",
+                "image": "https://i.ytimg.com/vi/T5z7tzKrCxk/maxresdefault.jpg",
 				"detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://i.ytimg.com/vi/T5z7tzKrCxk/maxresdefault.jpg",
+					"text": "The data are calculated based onAntutu Benchmark V8. In May, onthe ranking list of Android phonesperformance, the top 1 was stillMi 10 Pro 8+256G, manufacturedby China's mobile phone provider,Xiaomi. It has the overallbenchmark score of 590838.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://cdn.tgdd.vn/hoi-dap/1326347/antutu-la-gi-antutu-benchmark-danh-gia-nhung-thanh-phan-nao-0004.jpg",
+					"text": "IS ANTUTU BENCHMARK RELIABLE? AnTuTu is a great performancebenchmark tool. You should relyon them up to the point thatit makes sense. But, real worldtests and experience will trumpperformance scores any day....because their optimized softwareusually carries them evenlyagainst Android devices withhigher benchmark scores.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "https://google.com"
+					"cpa_title": "Open",
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "https://fantom.fun/nakoko/2.jpg",
+                "title": "IS IT SAFE TO DOWNLOAD ANTUTU BENCHMARK ?",
+                "image": "https://i.ytimg.com/vi/WG3Yh3147AA/maxresdefault.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://i.ytimg.com/vi/WG3Yh3147AA/maxresdefault.jpg",
+					"text": "The Play Protect security warningcomes up when you try to installversions 8.3. 9 and 8.3. 5 of theapp. Also, it has been reportedthat if you visit the AnTuTu sitevia Google Chrome, you get asecurity warning that the sitecontains harmful apps that cancollect tracking data.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL0DVj40IBjJNvzaJpypFtT9BCC1ugO2nzetB3D-9Od4HgeMST-UKSFjm8eKpQZJwGuZ_wI0UU20f5YWPY7ESFhpZuT449_HzmMqs5kqVUoofukr9Dbi-zYmrxpRD8w6UVAF2xC5o5jpyegOEZUsCaHnK32F3_ixhxHItM0iEJHz95gD_rpFksM7FuNw/s1050/Article.png",
+					"text": "HOW DO YOU CALCULATE A BENCHMARK SCORE? Benchmark scores are thencomputed by averaging thescores on the associated items.Standardizing scores increasesthe value of the scores in thefollowing two ways: 1) all of thebenchmarks are on the samescale, enabling comparisonsacross benchmarks",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "https://fantom.fun/nakoko/3.jpg",
+                "title": "HOW CAN I IMPROVE MY ANTUTU BENCHMARKSCORE?",
+                "image": "https://fdn.gsmarena.com/imgroot/news/20/03/antutu-deleted-play-store/-727w2/gsmarena_004.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://fdn.gsmarena.com/imgroot/news/20/03/antutu-deleted-play-store/-727w2/gsmarena_004.jpg",
+					"text": "Any advice on how to improveBenchmark Scores? UpgradePC components.Close anyunnecessary software whilerunning the benchmark.Lower/disable all graphic settingspossible.Lower screen resolution.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://i.ytimg.com/vi/OoioQHFeAQk/maxresdefault.jpg",
+					"text": "WHAT SHOULD KNOW ABOUT ANTUTU BENCHMARK? Antutu is one of the mostpopular benchmarkingapplications for Android, givingphone and tablet owners aneasy way to compare theirperformance across devices.However, all three Antutubenchmarks have been removedfrom the Play Store, possibly aspart of the larger crackdown onapps from infamous developer cheetah mobile.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "https://fantom.fun/nakoko/4.jpg",
+                "title": "HOW TO USE ANTUTU BENCHMARK?",
+                "image": "https://mightygadget.co.uk/wp-content/uploads/2020/12/Samsung-Galaxy-S21-vs-iPhone-12-Pro-1024x536.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://mightygadget.co.uk/wp-content/uploads/2020/12/Samsung-Galaxy-S21-vs-iPhone-12-Pro-1024x536.jpg",
+					"text": "you will know how you can utilizeall devices to advance craftedby your telephone. Here you candiscover all that you shouldthink about neural organizationmodels that AnTuTu Testapplication contains. Other thanyou will become more acquaintedwith how you can support upyour Internet speed",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "https://photos5.appleinsider.com/gallery/32852-56771-Geekbench-5-on-iPhone-xs-and-iPhone-11-Pro-l.jpg",
+					"text": "WHAT IS THE FEATURES OF ANTUTU BENCHMARK? Simple and Fast Label Creation./Full guide and easy tips/.Readreviews from other users. /Getaccess without any permissions./Good design and simple UI.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP5",
-                "image": "https://fantom.fun/nakoko/5.jpg",
+                "title": "START BENCHMARK",
+                "image": "https://www.yugatech.com/wp-content/uploads/2019/12/Antutu-Logo.jpg",
                 "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"image": "https://www.yugatech.com/wp-content/uploads/2019/12/Antutu-Logo.jpg",
+					"text": "Benchmarks are reference points that you use tocompare your performance against the performanceof others. These benchmarks ean be comparingprocesses, products or operations, and thecomparisons can be against other parts of thebusiness, external companies (such as competitors)or industry best practises.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": "link"
 				},
 				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"image": "",
+					"text": "",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
+					"cpa_url": ""
 				}
 				]
             }
