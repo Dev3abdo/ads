@@ -14,10 +14,10 @@
         "max_banner": "55d1b05da7a976d7",
         "max_inter": "2095f77f263963e6",
         "max_native": "93c45ea5dc6fd606",
-        "unityTest": true,
-        "unityGameID": "4398793",
-        "unityBanner": "Banner",
-        "unityInter": "Inter",
+        "unityTest": false,
+        "unityGameID": "5017533",
+        "unityBanner": "Banner_Android",
+        "unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3
 
