@@ -1,0 +1,122 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "max",
+        "InterAd": "max",
+        "NativeAd": "max",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "ironsource_api": "1011dee21",
+        "max_banner": "55d1b05da7a976d7",
+        "max_inter": "2095f77f263963e6",
+        "max_native": "93c45ea5dc6fd606",
+        "unityTest": false,
+        "unityGameID": "5017533",
+        "unityBanner": "Banner_Android",
+        "unityInter": "Inter",
+        "intersitial_click_activites": 1,
+        "intersitial_click_list": 3
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Kaskapp",
+        "items_data": [{
+                "title": "Guide 1",
+                "image": "https://i0.wp.com/shapunjab.in/wp-content/uploads/2022/01/iBomma-2022-Download-Latest-Telugu-Movies-Online.jpg",
+				"detail": [{
+					"image": "https://i0.wp.com/shapunjab.in/wp-content/uploads/2022/01/iBomma-2022-Download-Latest-Telugu-Movies-Online.jpg",
+					"text": "Currently a mobile is not only limited to makingcalls and receiving them but has a number offunctions including watching TV live and freesurfing the Internet, without the need for a tuner.Through Google Play we can find a variety ofresults about apps that give us the opportunityto watch TV on our mobile phone totally free,however we must take into account thatmany of these applications abuse ads andadvertising in the same way there is Be carefulnot to fall and avoid using channels and illegalapplications.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "https://mpgnrc.in/wp-content/uploads/2022/01/i-bomma.png",
+					"text": "Next we will refer to apps that are used to watchTV for free without abusing advertising, live andtotally legal, including Apple with free TV youcan have your favorite TV shows on your mobile.Of course, as its name says, for free. You canwatch live television on tablets or smartphoneswithout having to click on external links, all fromthe same app.The app allows access to the following 17channels: Nou24, RT, Antena 3, Cuatro, TVGE,EuroNews, La Sexta, TPD, Intereconomía, EITB,Marca, EuroSport, TeleMadrid, TV3 and TVE 24hours.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": ""
+				}
+				]
+            }, {
+                "title": "Guide 2",
+                "image": "https://i.ytimg.com/vi/aZ0YeTZYD-Y/maxresdefault.jpg",
+                "detail": [{
+					"image": "https://i.ytimg.com/vi/aZ0YeTZYD-Y/maxresdefault.jpg",
+					"text": "We can also reference LiveStream TV, themost complete With Livestream you can havechannels from the US, UK, Germany, Italy andthe Middle East, as well as more than 200live channels and 500 channels of videos ondemand. You will complain!Livestream is one of the most complete apps towatch TV on your mobile.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": ""
+				}
+				]
+            }, {
+                "title": "Guide 3",
+                "image": "https://gudstory.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/08/22040418/Ibomma-Download-Telugu-Movies-for-Free.jpg",
+                "detail": [{
+					"image": "https://gudstory.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/08/22040418/Ibomma-Download-Telugu-Movies-for-Free.jpg",
+					"text": "It has a Guide in which we can choose thechannel that we want and know what they willgive in the next 24 hours.The app is integrated with the main socialnetworks so you can share what you are seeingat any time.Sports, soap operas, comedies,movies, music or childrens channels, you canhave what you want.No need to pay, or subscribe, or install anythingelse, just this app.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": ""
+				}
+				]
+            }, {
+                "title": "Guide 4",
+                "image": "https://i.ytimg.com/vi/_AYx7y-WYNE/maxresdefault.jpg",
+                "detail": [{
+					"image": "https://i.ytimg.com/vi/_AYx7y-WYNE/maxresdefault.jpg",
+					"text": "Live streaming is the delivery of Internet contentin real-time, as events happen, much as livetelevision broadcasts its contents over theairwaves via a television signal.Live internet streaming requires a form ofsource media (e.g. a video camera, an audiointerface, screen capture software), an encoderto digitize the content, a media publisher, anda content delivery network to distribute anddeliver the content.Live streaming does not need to be recorded atthe origination point, although it frequently is.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": ""
+				}
+				]
+            }, {
+                "title": "Guide 5",
+                "image": "https://i0.wp.com/udantah.com/wp-content/uploads/2022/09/Ibomma.jpg",
+                "detail": [{
+					"image": "https://i0.wp.com/udantah.com/wp-content/uploads/2022/09/Ibomma.jpg",
+					"text": "There are challenges with streaming content onthe Internet. If the user does not have enoughbandwidth in their Internet connection, theymay experience stops, lags or slow bufferingin the content and some users may not be ableto stream certain content due to not havingcompatible computer or software systems.Some popular streaming services include thevideo sharing website YouTube, Twitch andMixer, which live stream the playing of videogames; Netflix and Amazon Video, which streammovies and TV shows; and Spotify.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": ""
+				}
+				]
+            }
+        ]
+    }
+}
