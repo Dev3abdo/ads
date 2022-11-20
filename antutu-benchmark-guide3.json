@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "max",
-        "InterAd": "max",
+        "InterAd": "unity",
         "NativeAd": "admob",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -14,10 +14,10 @@
         "max_banner": "4e48674c30adc7db",
         "max_inter": "a74450c56afb6776",
         "max_native": "27e11e270abee816",
-        "unityTest": true,
-        "unityGameID": "",
+        "unityTest": false,
+        "unityGameID": "5029305",
         "unityBanner": "Banner",
-        "unityInter": "Inter",
+        "unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3
 
