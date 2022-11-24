@@ -11,9 +11,9 @@
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "e6882cdd45abd41d",
+        "max_inter": "b3dda2b6e12b573f",
+        "max_native": "444854c60d9cfcce",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,92 +25,92 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Kaskapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "",
+                "title": "Master The Basics",
+                "image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-guide-1000x563-1-728x410.jpg",
 				"detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-death-1000x491-1-768x377.jpg",
+					"text": "20 Minutes Till Dawn has simple gameplay and controls but it is not completely devoid of mechanics to learn and some content to peek into. Regardless of your performance in each run, you will almost always end it earning some currency. Currency can be used for a wide variety of purchases including extra characters, extra weapons, and runes to strengthen your characters. It will certainly take a lot of grinding and replays to have enough currency to purchase everything but while the road to travel may be challenging, it will likewise be entertaining. The rogue-like aspect of 20 Minutes Till Dawn revolving around resetting levels and talents earned within each session is not at all discouraging as each session you dive into takes you closer to unlocking something new. As much as 20 Minutes Till Dawn makes it very tempting for everyone to hit that “Play” button and start decimating hordes of monsters, we recommend peeking into the available talents first as well as other vital information. On the title screen, click on “Talent” first and browse through the available ones you can get with each new level you reach while playing. The Normal Talents are the ones you can easily get with every new level you reach. Immediately after leveling up, you will get to choose 1 of 5 random available talents. Knowing what each one does here helps you choose the right ones you need in combat and this information will be known when you highlight the talent icons as you level up as well.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-dragon-egg-1000x491-1-768x377.jpg",
+					"text": "In the Normal Talents Page, though, you will know what other skills become unlocked after claiming one so you can strategize better on your character’s build. For example, claiming the Dragon Egg talent will make both Aged Dragon and Trained Dragon available in subsequent level ups and getting either one will make Dragon Bond available. Under the Advanced Talents tab, unique talents like Death Rounds and Frost Fire can only be acquired if you have obtained both of the prerequisite talents. This means that in order for Death Rounds to become available as a claimable talent from levelling up, you need to obtain both Reaper Rounds and Light Bullets first. Ultimate Talents are undoubtedly strong and difficult to obtain as these will only randomly spawn from chests that boss enemies drop. These Tomes offer tremendous boosts but will always come with some debuff. As an example, Tome of Speed increases Movement Speed by 50% but reduces your Max HP by 1. Finally, there are character-exclusive talents as well that you can claim from boss drops. Each character has 3 unique exclusive talents and, unlike ultimate talents or tomes, do not necessarily carry any drawbacks. These are definitely among the best talents to have in any run. Beyond talents that reset with every new run, the currency you earn with each kill you make and the length of time you survived is a very useful and much needed commodity. These blood coins of sorts are used to unlock new characters and weapons as well as used to purchase runes. Runes have permanent effects and applies to every character you use. Runes are divided into 2 groups and 4 tiers and you can choose to equip one rune per tier and per group for a total of 8 runes from the 24 unlockable ones.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "",
+                "title": "Get To Know Each Character",
+                "image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-characters-1000x563-1-728x410.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-shana-1000x491-1-768x377.jpg",
+					"text": "20 Minutes Till Dawn starts you off with only Shana as the only playable character. There are currently 6 characters to unlock, though, which comes with their own unique attributes and skills. Although some of the unlockable characters only require a few sessions of grinding, it is best to properly plan your purchases to ensure that you can make progress faster and more efficiently. With regard to the characters, having a solid enough idea of how each one works can help you determine which one works best for you. Once you have chosen and unlocked your favorite heroine, you can focus more on purchasing different guns and runes to improve your succeeding runs. Just because Shana is the starting character does not make her lag behind others in terms of value. Shana is actually among our favorites considering her innate ability to reroll upgrades once per level. Each new level reached lets you choose 1 from among 5 different upgrade buffs to have. There will certainly be times when more than 1 choice will stand out for you but having none of the available choices good enough for your current needs can happen as well. In these cases, Shana’s reroll ability is a welcomed treat. Shana’s exclusive talents include Specialize, which triples the effect of the next upgrade you take; Ascension, which requires you to collect 3 Halo Pieces as upgrade choices and lets you reacquire her halo; and Quick Learner, which can boost her experience gain by 40%. Diamond is the toughest heroine there is and despite lacking any unique special skills, she starts off with a massive HP of 7. For beginners, what may seem to be a more attractive choice of character to command are the ones that have more offense. However, runes and abilities equally provide augmentations for both offense and defense. Given that 20 Minutes Till Dawn is a survival game, traits that swerve more towards defense are equally valuable.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-diamond-1000x491-1-768x377.jpg",
+					"text": "For exclusive talents, Diamond has Strong Will, which gives her Piercing +2 and Knockback +25% whenever her HP is at or below its max amount; Berserk, which boosts Fire Rate and Reload Rate by 10% permanently with each hit she takes; and Bulk Up, which increases Bullet Damage and Bullet Size by 15% permanently whenever she heals. With a name like Spark, you would certainly expect her to be among the more offensive heroines in 20 Minutes Till Dawn. Spark starts off with only 3 HP but her bullets all have a 50% chance to call down Lightning on impact for 5 damage. Spark’s exclusive talents include Electrical Fire, enabling her Lightning Strikes to inflict Burn Damage equal to 3 per second; Charged Up, which enables every third lightning strike to deal double damage and generate 1 ammo; and Electro Affinity, which reduces her Bullet Damage by 25% but boosts Lightning Damage by 50%. Hina’s face cover can leave an impression of a ninja type character and most might guess it correctly since she comes with a Shadow Clone ability just like Naruto. Tapping on her skill button at the right side of the screen lets her dash for a short distance and summon a shadow clone that attacks nearby enemies for damage equal to her Bullet Damage. Hina’s exclusive talents include Enhanced Shadow, boosting her Summon Damage by 25% and lets her Shadow Clone attack 3x faster; Hidden Blade, which makes her invincible while dashing and gives her dash damage equal to her bullet damage; and Maneuver, which automatically reloads her gun with each dash. If there is a lightning elemental specialist like Spark, then you can certainly expect a fire elemental heroine as well. Scarlet specializes in Burn Damage and on every third shot, she unleashes a wave of fire that inflicts Burn on enemies for 3 damage per second.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "",
+                "title": "Begin With A Build In Mind",
+                "image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-dual-smg-1000x491-1-768x369.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-shotgun-1000x491-1-768x377.jpg",
+					"text": "Although it is always best to be able to test each character out before you decide on which one should become your main character, the information we outlined above should at the very least provide you sufficient information to have a good enough idea of how each one plays, considering their strengths and limitations. With that, and given the various talents, weapons, and runes to consider, you should begin to plan on a build for your character and picking the right gun for your character is among the steps to take. Just like how we consider each character to be fairly equal with one another, we can consider the different weapons to be of equal value as well. The Revolver might easily be dismissed as a mere starting weapon that you can simply stop using once you can afford any other weapon but its overall balanced stat is pretty decent. As basic as it comes, the Revolver is not just the easiest weapon to handle for beginners but it is also a viable weapon for experienced and advanced players. At 12 damage per bullet and 4 projectiles per shot, the shotgun certainly is a fitting weapon if you want multiple weapon kills at a time. The shotgun, however, has the shortest range and reloading every 2 shots can be a precursor to being overwhelmed if you cannot make a lot of kills fast. Dual SMGs look as cool as any dual wield weapon should and while its damage is among the lowest with only 4 per bullet, a max ammo of 32 and a decent fire rate more than makes up for the seemingly low damage outputs. SMGs have the longest reload time at 2.5 seconds and upgrades for guns that you obtain will apply separately for each gun. Surprisingly enough, the Crossbow sports one of the highest damage per projectile at 30. It only has 1 ammo but has the same fire rate and reload time as the revolver. What makes it even more unique is that bullet damage increases when you stand still and resets every time you move.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-flame-cannon-1000x491-1-768x369.jpg",
+					"text": "The Flame Cannon, at first glance, seems to have the lowest damage output with only 3 damage per bullet. However, having the Flame Cannon equipped lets you burn enemies for 3 damage per second. Ammo count is great at 12 but reload time lags a little behind at 1.4 seconds. Often considered as a special weapon in numerous games, the Grenade Launcher in 20 Minutes Till Dawn is as equally powerful and dangerous. Explosive grenades deal 45 damage in a small area and the Grenade Launcher has a maximum of 6 ammo by default. The biggest drawback with this weapon is that the grenade explosions can also hurt you. Finally, the Batgun strays from the usual array of conventional weapons in that it shoots out bats that chase down enemies. On top of that, bats are considered as both bullets and summons, which means that talents and runes that increase either one will both apply to this weapon. Starting damage is only 6 and max ammo is 12 with 2 projectiles. Although you can mix and match characters and weapons as you please, some can work much better paired with the right character. Additionally, some of the different talents you pick can have a variety of impact based on the type of weapon you choose so considering the set of basic and advanced talents to pick up even before starting a run becomes more important with guns in consideration.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "",
+                "title": "Choose Your Rune Upgrades Wisely",
+                "image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-sword-upgrade-1000x491-1-768x377.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-shanas-halo-1000x491-1-768x377.jpg",
+					"text": "Characters, guns, and runes become permanently available for you to utilize once you unlock them. While characters and guns only require one-time payment, though, runes will prove to be the most challenging set of enhancements to unlock considering that there are 24 different runes and a max level of 5 for each one. Reaching a certain rune level is required to unlock the next tier and this mechanic applies separately to the Sword and Shield types. Just like characters and guns, we cannot really consider any specific rune within the same tier to be better than the rest. However, while each rune comes with its own obvious benefits, its applicability and overall value depends on the character you use, along with your preferred weapon type and talent priorities. As such, it is best to consider planning ahead before you start investing in any of the runes as you would want to focus on specific types and rank them up to 5 to unlock the next tier. For example, for the first tier of Sword type runes, Alacrity, Mysticism, and Power are all equally enticing and beneficial. Alacrity increases Fire Rate and Reload Rate by 2% per rank; Mysticism gives your bullets a 2% chance to inflict Burn or Freeze per Rank; and Power increases both Bullet Damage and Summon Damage by 2% per rank. Since you will only be able to equip 1 of these 3 at a time, you might as well rank up one of them to 5 and invest your remaining currency in other stuff. Power might be the best choice for Hina and Lilith who have summons, while Mysticism can be best utilized by Scarlett especially armed with a Flame Cannon. Beyond attempting to sync your tier 1 rune choice with your top character, favorite weapon, and preferred talents, you should also consider aligning your rune choices from tier 1 through tier 4. For example, if you chose to capitalize on Freeze or Burn Damage and opted for Mysticism as your tier 1 rune, then the Elemental Barrage from the second tier is the obvious choice. This may have a requirement of inflicting Freeze or Burn 50 times first, but then it will give you a 50% increase in fire rate and reload rate for 1 second per rank afterwards.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-moving-around-in-circles-1000x491-1-768x377.jpg",
+					"text": "Further down the line, Wild Magic gives a 5% chance per rank for Burn and Freeze effects to from killed enemies to spread to nearby enemies. Although there are no runes on the last tier that directly supports Burn or Freeze effects, Cadence seems to be the best choice. This rune makes every third shot have infinite piercing and that alone greatly complements having Burn or Freeze effects. The double bullet size and extra bullet damage of 20% per rank is a nice extra as well. The Sword or attack runes are, of course, just half of the available set of runes to include in your planning. Keep in mind that a synergistic build does not only take into account damage capabilities as survival is a key principle to consider as well. Again, any of the Shield runes within the same tier have enticing and beneficial boosts but considering which from among them synergizes best with your build is something to determine beforehand.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP5",
-                "image": "",
+                "title": "Consider Running Around In Circles",
+                "image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-shanas-halo-1000x491-1-768x377.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-moving-around-in-circles-1000x491-1-768x377.jpg",
+					"text": "20 Minutes Till Dawn starts you off facing only a handful of monsters that you can quickly eliminate even without having to move. In a quick turn of events, you will experience an exponential increase in enemies and will naturally have to consider relocating yourself for survival. While you can generally move at any direction in a practically endless world, killing monsters are just part of the means for you to survive the night. As monsters ceaselessly increase in numbers, surviving the first minute simply through running and killing as many monsters as you can will not suffice. You will need to continuously grow stronger as time passes to prepare yourself for the bigger and continuously growing challenges ahead. Without any improvements on your character, the natural outcome is for monsters to overwhelm you and as they do, your chances of further survival grow smaller. Every enemy you kill drops crystals that give you EXP and you need EXP to reach new levels and acquire talents. In this sense, you will want to grab as many of those crystals as possible and level up quickly to improve your character’s performance. Of course, this will be a challenging task if you will choose to take the monsters head on and grab each crystal as they drop. What will more likely happen is that you will eliminate monsters while moving away from them and leave their drops behind.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://www.levelwinner.com/wp-content/uploads/2022/09/20-minutes-till-dawn-monster-1000x491-1-768x377.jpg",
+					"text": "Given this typical scenario, what we recommend is for you to consider moving around in circles. As you miss initial opportunities to grab those EXP crystals, running in circles will almost guarantee that you will be able to grab them with little to no risk at a later time. This tactic does not necessarily mean that you will always just run around in circles. Rather, the idea we want to impart is to cycle around a limited area where you can get back to where the monsters you killed dropped EXP crystals that you can take. For the most part, what we found most effective is basically pooling enemies in an area and eliminating them there. The as you move, a different area with plenty of EXP gems will be made as well and as you keep moving in a cyclical manner, you will naturally reach the initial area where there are EXP crystals to be gained. Of course, you are always free to break the cycle every once in a while if it becomes too challenging but at the very least make an attempt to re-establish it later on.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
