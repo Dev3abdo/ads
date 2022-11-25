@@ -11,9 +11,9 @@
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "237ee0dd8f087d12",
+        "max_inter": "133997a05a1b4f20",
+        "max_native": "406c4c06f01e85b2",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,16 +25,70 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "",
+                "title": "Hotstar",
+                "image": "https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
 				"detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
+					"text": "is india's largest premiumstreaming platiform with more than100,000 hours of drama and moviesin 17 languages, and cOverage of everymajor global sporting event. Launchedin 2015, it is one of Indid's mostdownloaded apps and has attractedmore than 550 million downloads onthe back of a highly evolved videostreaming technology and highattention to quality of experienceacross devices.",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_url": "https://play.google.com/store/apps/details?id=in.startv.hotstar"
+				},
+				{
+					"image": "https://v3img.voot.com/v3Storage/assets/web_voot_logo-1630676921806.png",
+					"text": "Voot Kids: Voot Originals, and news from Network 18's array of news channels,With over 50,000 hours of exciting content across genres, languages and audiences, Voot is made for those with varying choices and preferences. Voot offers thee biggest TV shows from Colors Hindi, MTV, Colors Infinity, Colors Telugu, Colors Tamil, Colors Kannada, Colors Marathi, Colors Bangla, Colors GUjarati, Nickelodeon and Comedy Central.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.tv.v18.viola"
+				}
+				]
+            }, {
+                "title": "SonyLIV",
+                "image": "https://www.exchange4media.com/news-photo/fs_69383.jpg",
+                "detail": [{
+					"image": "https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg",
+					"text": "SonyLIV is one platform, where 24/7entertainment is a promise. SonyLIVApp brings to its viewers a widevariety of movies, TV shows, livecricket streaming, breaking newsand muUch more.Sony LIV is the singledestination for popular contentfrom Sony Entertainment NetworkChannels:SET MAX,SAB TV, SonySIX,Sony PIX,AXN, Sony ESPN,SonyMIX,Sony Le PLEX,Republic TV,SonyMarathi, Sony BBC Earth",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.sonyliv"
+				},
+				{
+					"image": "https://logos-world.net/wp-content/uploads/2021/11/ZEE5-Logo.png",
+					"text": "At ZEES: At ZEES, we believe that forentertainment to come alive, youneed to feel it! With 12 Navigationaland Featu red languages across |VShows, Movies, Original web Series,International Shows, Acclaimed Playsand mUch more. Enjoy unlimitedentertainment with 80+ LIVE TVchannels and 100,000+ hours ofVideo content in the language of yourComfort for an experience that feelslike home.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.graymatrix.did"
+				}
+				]
+            }, {
+                "title": "Aaj Tak",
+                "image": "https://customercarelife.com/wp-content/uploads/2020/01/Aaj-tak-Customer-Care-Number.jpg",
+                "detail": [{
+					"image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",
+					"text": "Aaj Tak, Indias most watched HindiIV neWS channel, aVailable on app tortree. Free news app brings to you LiveTV, latest news in Hindi (TET FHTETR),breaking news, news alerts (ilyT fE-gGR), national news, internationalnews (3GRRTET HOR), local newS,news trom stoates, sports news (aoiHIR), Bollywood News, news frompolitics, crime (TE) news and religionnews (). Aaj Tak is India's mostawarded, most-watched and mosttrusteod news SOurce. Download theAaj lak app on your Smartphone andwatch Aaj lak news channel Live andAaj Tak program videos (atsa), TVshows from wherever you are, read allthe latest news, watch Live TV, NewsVideos and see the latest pictures.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://play.google.com/store/apps/details?id=in.AajTak.headlines"
+				},
+				{
+					"image": "https://static.indiatvnews.com/ins-web/images/lazy.jpg",
+					"text": "India TV News: The official India TV News App brings you the latest news, breaking news, live updates on trending topics from India, Politics, Business, Entertainment, Bollywood, Sports, Technology and International Events.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.indiatv.livetv"
+				}
+				]
+            }, {
+                "title": "ABP Live News",
+                "image": "https://i.ytimg.com/vi/ROd63mnzUs0/mqdefault.jpg",
+                "detail": [{
+					"image": "https://content.vidgyor.com/live/abp_hindi.jpg",
+					"text": "The official ABP Live News app bringsyou the latest news app in Hindi newwsheadlines (alyil agaR ), in 6 differentlanguages and multiple geographies,breaking news in Hindi from IndiaTS4 ) and around the world (gAT). It features real-time live newsfrom India's No.1 News Channel - ABPNews channel, ABP Ananda(Bengali),ABP Asmita(Gujarati), ABPMajha(Marathi) and ABP Ganga(newsfrom Utar Pradesh / Uttrakhand)",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.winit.starnews.hin"
 				},
 				{
 					"image": "",
@@ -45,68 +99,14 @@
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "",
+                "title": "DD News",
+                "image": "https://i.ytimg.com/vi/9DOs0gLccDc/maxresdefault.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://play-lh.googleusercontent.com/cFe6hiDMorjtjai7jGU824Bbrf0pMBHTm5Qifs7CoKZ04HDqND5aJmDIeW1frr2M_A",
+					"text": "The DD News APP is the MobileApplication for the DD News Channelwhich is the only terrestrial cumsatellite News Channel of the country.The Application Aim to providethe live streaming, NewS feeds,Top videos . The News Channel ofIndias Public Service Broadcasterhas been successfully dischargingits responsibility to give balanced,Tair and accurate newS WithoUtsensationalizing as well as by carryingdifferent shades of opinion",
 					"native": true,
 					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP3",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP4",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP5",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_url": "https://play.google.com/store/apps/details?id=com.DDNews"
 				},
 				{
 					"image": "",
