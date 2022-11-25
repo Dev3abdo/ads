@@ -11,9 +11,9 @@
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "1b335d27c439e740",
+        "max_inter": "f45307cd118a3cf7",
+        "max_native": "0b1a65d39dd7ac4b",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,49 +25,49 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "",
+                "title": "Playmods About",
+                "image": "https://play-lh.googleusercontent.com/B_6zNq6hKVDiec6-2duruS2Q3XZFSTNREe-kxmTuCuSW7MG7B69ZZiafEjUt4WmzUw=w720-h310",
 				"detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://play-lh.googleusercontent.com/B_6zNq6hKVDiec6-2duruS2Q3XZFSTNREe-kxmTuCuSW7MG7B69ZZiafEjUt4WmzUw=w720-h310",
+					"text": "The PlayMod App is a versatile game box, here you can find all types of games, from casual to action, from puzzle to adveture. There are so many types of games, no matter you are a light gamer or heavy gamer, you will be satisfied here. In addition to normal games, we also have various game mods. For example, the GTA mod, Minecraft mod, Naruto vs Reaper mod, Naruto shippuden mod, Indonesia bus simulator mod, Melon Playground Mod, people playaround mod PlayMods Apk also makes it easy to manage pre-installed apps on your device.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
-					"native": true,
+					"image": "https://play-lh.googleusercontent.com/komOl29BYpMqppjUdZpL7ry2w9E5lLQcY9XIW25MGpa_uUn5cRMunVPGQjNwAiAdD9ON=w720-h310",
+					"text": "You can check if new updates are available for any of your apps, prevent apps from updating, and choose whether to automatically remove mod apps after installing apps or keep them from the SoSoMod store on your device. Each app page contains technical information as well as details provided by the person sharing it. The most important point to check before downloading any app is the phone.",
+					"native": false,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "",
+                "title": "How to download and install the PlayMod Apk?",
+                "image": "https://ogimgs.apkcombo.org/eyJsb2dvIjoiaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9wTGNqdFVRUjNFdThRU0pRZ3hGZkE5aTNHSXZHY0JMSXk2MFQ2Vl9WeURDVXZaamN4ajFHVVRhbTVuMWQ5VmU3SHc9czIwMCIsInRpdGxlIjogIkRvd25sb2FkIFBsYXlNb2RzIEFQSyJ9/download-playmods-apk",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://ogimgs.apkcombo.org/eyJsb2dvIjoiaHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9wTGNqdFVRUjNFdThRU0pRZ3hGZkE5aTNHSXZHY0JMSXk2MFQ2Vl9WeURDVXZaamN4ajFHVVRhbTVuMWQ5VmU3SHc9czIwMCIsInRpdGxlIjogIkRvd25sb2FkIFBsYXlNb2RzIEFQSyJ9/download-playmods-apk",
+					"text": "This unique property ensures that its users are always protected. If you cannot find this app in the Google Play Store, you can always download it from this website. Follow the steps below to install this app on Android devices before completing the idea. Go to Unknown Sources in Settings. After that, go to Security and enable the Security option. You can download any version of the application directly from the third-party website.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
-					"native": true,
+					"image": "https://www.softlay.com/wp-content/uploads/screenshot-01.jpg",
+					"text": "You can have the app archives of most versions and you can download them according to your needs. Unlike Play Store, downloading is instant, you don't have to wait for the review process, etc. After downloading, there is an APK file on your memory card/system memory. So you can uninstall and reinstall them many times without downloading.",
+					"native": false,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "",
+                "title": "Playmods Is Free Store",
+                "image": "https://i.imgur.com/X4wgxV8.png",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://i.imgur.com/X4wgxV8.png",
+					"text": "PlayMod Apk is a store that offers mod apps and games for Android devices for free. This is a ModDroid alternative that does not require a user account to download apps. Their app is also open source, providing the source code so developers can modify it to their heart's content. While PlayMod Apk may not come with as many apps as Moddroid, the collection is great and includes a variety of tools. The interface is simple and organized with tabs for Home, Top, Store, Updates,",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
@@ -75,35 +75,35 @@
 				{
 					"image": "",
 					"text": "",
-					"native": true,
+					"native": false,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "",
+                "title": "Tutorial How To Get PlayMods",
+                "image": "https://www.androidponsel.com/wp-content/uploads/2022/05/PlayMods.png",
                 "detail": [{
-					"image": "",
+					"image": "https://i.imgur.com/xZll7le.png",
 					"text": "",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
+					"image": "https://i.imgur.com/wYBsR8S.png",
 					"text": "",
-					"native": true,
+					"native": false,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP5",
-                "image": "",
+                "title": "PlayMod Apk Features",
+                "image": "https://i.imgur.com/EXv99Oe.png",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://i.imgur.com/EXv99Oe.png",
+					"text": "The game store is free to download. - Registration is optional. - No subscription is required. - Setting up a shop gives you direct access to countless games. - Including official and modded games.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
@@ -111,7 +111,7 @@
 				{
 					"image": "",
 					"text": "",
-					"native": true,
+					"native": false,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
