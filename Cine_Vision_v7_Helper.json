@@ -11,9 +11,9 @@
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "11806dc535cc12f9",
+        "max_inter": "576947eb93a977d0",
+        "max_native": "0909818a52fd30a4",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,13 +25,31 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
         "items_data": [{
-                "title": "STEP1",
-                "image": "",
+                "title": "What is CineVision?",
+                "image": "https://1.bp.blogspot.com/-ueXCOYqGULU/XrjS0DeJaVI/AAAAAAAABIE/la-sUcGMO-0SlMucspmzsU5d1cJxLl3BwCNcBGAsYHQ/s1600/1280-cine-vision.png",
 				"detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://media.cdnandroid.com/item_images/1335113/imagen-cine-vision-v7-v6-v5-1gal_min.jpeg",
+					"text": "Cinevision is a broad-based company that distributes large content libraries encompassing Hollywood movies, documentaries, animation, music and a large amount of content from China by virtue of its joint ventures with various Chinese entities such as the China Record Corporation and China Central Television (CCTV).",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "link"
+				},
+				{
+					"image": "https://pronatec.pro.br/wp-content/uploads/2021/07/Cine-Vision-App-Assistir-Filmes-Series-e-Animes-no-Celular-Tablet-PC-ou-Tv.jpg",
+					"text": "How to Download Cine Vision V4 on PC: 1.Download and install BlueStacks on your PC 2.Complete Google sign-in to access the Play Store, or do it later 3.Look for Cine Vision V4 in the search bar at the top right corner 4.Click to install Cine Vision V4 from the search results 5.Complete Google sign-in (if you skipped step 2) to install Cine Vision V4 6.Click the Cine Vision V4 icon on the home screen to start playing",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": ""
+				}
+				]
+            }, {
+                "title": "Cine Vision V4 Features",
+                "image": "https://techgara.com/uploads/2021/07/cine-vision-v4-apk.jpg",
+                "detail": [{
+					"image": "https://techgara.com/uploads/2022/3/cine-vision-v5-apk.jpg",
+					"text": "Love watching movies? looking for a platformto stream content in a language youunderstand? give Cine Vision V4 a shot. It isan entertainment platform designed for thosewho speak Portuguese. You can discover andwatch your favorite movies subbed anddubbed in Portuguese. Now before we get tothe instructions and help you take the CineVision V4 onto the big screens, here are fewwords on the Cine Vision V4 app features.Starting with the basics, Cine Vision V4 is astreaming platform where you can watchmovies in Portuguese. It comes with a hugelibrary of popular and latest movies. Thecontent is categorized into genres, you canscroll through the genres to discover thecontent you want to watch. There is a'favorites' section, where you can add the titleyou would want to watch again. Also, you canuse the Cine Vision V4 app on multipledevices, however, if you are going to use yourPCs or Laptops, it doesn't appear very useful.As for the basic features, such as genres,which we have already established are there,descriptions of the titles, Cine Vision V4brings all the basic stuff. It is fully optimizedand lightweight in terms of design and can betermed as an appealing and user-friendlymovie streaming platform. And this prettymuch sums up the key features of the CineVision V4 app, you can explore more afterinstalling it.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
@@ -45,11 +63,11 @@
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "",
+                "title": "Can I Use Cine Vision V4 on Windows and Mac?",
+                "image": "https://mumu-global.fp.ps.easebar.com/file/61270a291b74124f3be80499DJzyesOj02",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://static.gameloop.com/img/6b84bfe56597ed9db2afe9ec9c225c77.jpg",
+					"text": "Cine Vision V4 isn't the first of its kind application as we have seen the success of its previous versions, namely, Cine Vision V3. It is an entertainment platform where you can discover and watch your favorite movies and series subbed and dubbed in Portuguese. Currently, it is available only for Android os and you can install the Android version on handheld devices via Google Play. If you want to make use of the big screens of PCs or Laptops to watch your favorite movies, note that the process is slightly different from handheld devices. Given PCs/Laptops are powered by Windows and OS X systems and there isn't any PC exclusive version of the app, you cannot install it directly, as you would on a handheld device. An easy way around would be to use the same Android version of the Cine Vision V4 app and run it on big screens via Android Emulators. The idea behind Emulators is to set up an Android platform on Windows and OS X systems and use it to run Android apps on PC and Laptop. Think of an Emulator as a virtual machine that sits there on your device and when launched, emulates the Android OS that you can use to run Cine Vision V4. In simple words, with an Emulator set, you can use Cine Vision V4 on PC or Laptop to stream your favorite movies on big screens. Here's how you can install and set up the emulator yourself",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
@@ -63,47 +81,29 @@
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "",
+                "title": "Run Cine Vision V4 on PC",
+                "image": "https://apkgenk.com/wp-content/uploads/2021/09/hieuunganh-compressed-3-1.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://static.gameloop.com/img/81d68f925706cc6a7c1139f30fd3f0e2.jpg",
+					"text": "Cine Vision V4 is an Entertainment App developed by Vision Limited. BlueStacks app player is the best platform to use this Android App on your PC or Mac for an immersive Android experience. Download Cine Vision V4 on PC with BlueStacks and consume all your favorite online content in one simple and convenient app. Cine Vision V4 offers a fun media platform that's a joy to experience with the whole family. Run Cine Vision V4 on multiple devices simultaneously! Zoom through the options thanks to a lightweight and streamlined interface design. Get quick access to the shows and movies you're watching with the favorites system. Cine Vision V4 only available in certain regions. Functionality and support may vary by your location. Download Cine Vision V4 on PC with BlueStacks and access the best content in one handy app!",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://techgara.com/uploads/2021/07/cine-vision-v4-apk.jpg",
+					"text": "Features of Cine Vision V5 on PC: Stop worrying about overcharges when usingCine Vision V5 on your cellphone, freeyourself from the tiny screen and enjoy usingthe app on a much larger display. From nowon, get a full-screen experience of your appwith keyboard and mouse. MEmu offers youall the surprising features that you expected:quick install and easy setup, intuitive controls,no more limitations of battery, mobile data,and disturbing calls. The brand new MEmu 7is the best choice of using Cine Vision V5 onyour computer. Coded with our absorption,the multi-instance manager makes opening 2or more accounts at the same time possible.And the most important, our exclusiveemulation engine can release the fullpotential of your PC, make everything smoothand enjoyable.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "",
+                "title": "Why Use MEmu for Cine Vision V5",
+                "image": "https://img.ifunny.co/images/cf13089cb2932d2e3044dffd85e7cd776b79ae060260332882f5d2055e229a15_1.jpg",
                 "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP5",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://lh3.googleusercontent.com/2DlwgOWRhlvPFdiEJtz6FXZVov1j8Pvv5mOUnKxvKso6xVnTYFfHaideGLcJhBCsrKk",
+					"text": "MEmu Play is the best Android emulator and 100 million people already enjoy its superb Android gaming experience. The MEmu virtualization technology empowers you to play thousands of Android games smoothly on your PC, even the most graphic-intensive ones.",
 					"native": true,
 					"cpa_title": "Open",
 					"cpa_url": "link"
