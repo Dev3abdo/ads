@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "max",
-        "InterAd": "max",
+        "InterAd": "ironsource",
         "NativeAd": "max",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -10,7 +10,7 @@
         "facebook_banner": "",
         "facebook_inter": "",
         "facebook_native": "",
-        "ironsource_api": "1011dee21",
+        "ironsource_api": "179329b85",
         "max_banner": "55d1b05da7a976d7",
         "max_inter": "2095f77f263963e6",
         "max_native": "93c45ea5dc6fd606",
