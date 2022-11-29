@@ -17,7 +17,7 @@
         "unityTest": false,
         "unityGameID": "5017533",
         "unityBanner": "Banner_Android",
-        "unityInter": "Inter",
+        "unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3
 
