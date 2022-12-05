@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "irounsource",
+        "InterAd": "ironsource",
         "NativeAd": "max",
         "admob_banner": "ca-app-pub-6892912499317182/2717394229",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
