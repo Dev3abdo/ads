@@ -15,9 +15,9 @@
         "max_inter": "b7157c5088e62748",
         "max_native": "741df035a4153418",
         "unityTest": false,
-        "unityGameID": "",
-        "unityBanner": "Banner",
-        "unityInter": "Inter",
+        "unityGameID": "5064658",
+        "unityBanner": "Banner_Android",
+        "unityInter": "Interstitial_Android",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3
 
