@@ -11,9 +11,9 @@
         "facebook_inter": "",
         "facebook_native": "",
         "ironsource_api": "",
-        "max_banner": "",
-        "max_inter": "",
-        "max_native": "",
+        "max_banner": "d887db23e01994fa",
+        "max_inter": "96f8ba04dce4f2bc",
+        "max_native": "b591c2fb540c309a",
         "unityTest": true,
         "unityGameID": "",
         "unityBanner": "Banner",
@@ -25,7 +25,7 @@
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://play.google.com/store/apps/developer?id=Patlsapp",
+        "btn_more_url": "https://play.google.com/store/apps/developer?id=Ajvapps",
         "items_data": [{
                 "title": "STEP1",
                 "image": "",
