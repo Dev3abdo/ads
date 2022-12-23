@@ -1,10 +1,10 @@
 {
 	"version": "said v2",
 
-"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
-	"applovinbanner": "77c64f9e99e23763",
-	"applovininter": "11414c0241b0e82a",
-	"applovinreward": "b4c66b4a4984eaf1",
+"applovinsdk": "SyTzGW1Zx8rPun-GoxdEcfF6clZDqlsaTcF8QnuVp_AHdNKJ6ITVy8bDT2K8wQlkpa67xLZWEIL0spP3AQNEFO",
+	"applovinbanner": "385d1e444bc734dd",
+	"applovininter": "4dd2f49881e9d4f9",
+	"applovinreward": "4a15092a13ed0a98",
 	
 	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
 	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
@@ -13,9 +13,9 @@
 
 
 "adsSwitch detail ": " 1:admob 2:applovin 0:auto",
-"adsSwitchInter": "1",
-"adsSwitchBanner": "1",
-"adsSwitchReward": "1",
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2",
 
 "adscounter": "1"
 
