@@ -27,92 +27,92 @@
         "btn_more_title": "More",
         "btn_more_url": "https://play.google.com/store/apps/developer?id=Ajvapps",
         "items_data": [{
-                "title": "STEP1",
-                "image": "",
+                "title": "Installation Instrucions",
+                "image": "https://vancedmanager.com/wp-content/uploads/2021/01/vanced-microg-apk-download-latest-version-for-android.png",
 				"detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://vancedmanager.com/wp-content/uploads/2021/01/vanced-microg-apk-download-latest-version-for-android.png",
+					"text": "* For Non-Root: If your Android device is Non-Rooted, follow these instructions to install the app.  Download and install the latest Vanced Manager from our website. Download Vanced MicroG APK the Vanced Manager app and tap on the blue arrow at the lower right corner. Install Vanced microG. (If you want to sign in to your Google account, this app is required to install) Next, install YouTube Vanced or YouTube Music Vanced as your desire, then log in to your Google account and enjoy!",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Vanced MicroG APK",
+					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
+				},
+				{
+					"image": "https://i0.wp.com/www.androidsage.com/wp-content/uploads/2022/04/YouTube-Vanced-MicroG-APK-Download.png",
+					"text": "* For Root: If your Android device is Rooted, follow these instructions to install the app.  Download and install the latest Vanced Manager from our website.​ Open the Vanced manager app and tap on the "Magisk" icon to grant root permissions.​ Once you are done, install YouTube Vanced or YouTube Music Vanced.",
+					"native": true,
+					"cpa_title": "Download Vanced MicroG APK",
+					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
+				}
+				]
+            }, {
+                "title": "Important Information",
+                "image": "https://apkmodule.com/media/2022/10/_3/760x450/vanced-microg-apk_9ad1d.jpg",
+                "detail": [{
+					"image": "https://apkmodule.com/media/2022/10/_3/760x450/vanced-microg-apk_9ad1d.jpg",
+					"text": "- Disabling "APK signature verification" is no longer required. - The magisk root version was discontinued and removed from the magisk repository because Google switched to Split APKs format. So we replaced our root installation with the new Vanced Manager, directly mounts vanced on the top of /data/app directory of Youtube, making more easier and faster. - Vanced won't block ads while using the casting feature, it doesn't cast the video from your device to the Chromecast/TV. Instead, your android device will act as a remote controller for the Youtube app in your Chromecast/TV. That is why the ads are displayed.",
+					"native": true,
+					"cpa_title": "Download Vanced MicroG APK",
+					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP2",
-                "image": "",
+                "title": "Known Bugs",
+                "image": "https://play-lh.googleusercontent.com/R3ENCASzLDT3TH-wI14H6Qiy34R265Tk1xyFIF7Q8pTd1MJpHPJdvOIHMzA-6a05yBK2=w327-h184-rw",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://play-lh.googleusercontent.com/R3ENCASzLDT3TH-wI14H6Qiy34R265Tk1xyFIF7Q8pTd1MJpHPJdvOIHMzA-6a05yBK2=w327-h184-rw",
+					"text": "- Buying items in the non-root version causes the app to crash. Likely due to MicroG but to be honest, it's better this way for your security. Please use the original youtube app to buy the stuff you want.​ - If videos are lagging or YouTube Vanced crashing while watching live videos, enable VP9 codec from codec override from Vanced Settings. Google forces the ExoPlayer v2, which is still experimental and not stable on unsupported devices. ExoPlayer V2 might crash when return from background playback on some devices.​ - Casting in the v16.16.38 won't work because of an upstream microG bug. - Preferred quality options are not working in portrait/vertical videos.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Vanced MicroG APK",
+					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP3",
-                "image": "",
+                "title": "Official Installer - (Ad)Vanced Options",
+                "image": "https://websitepin.com/wp-content/uploads/YouTube-vanced-apk-download.png",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://websitepin.com/wp-content/uploads/YouTube-vanced-apk-download.png",
+					"text": "Using the ytva settings.sh  ​- SEARCHFOLDER - Path to search for iYTBP Apks (must be a subfolder on sdcard!) ​- MAGINSTALL - Use magisk module installation instead of root installation. - DETACH - Disconnect You Tube from google play to disable update notifications. - ATTACH - Connect You Tube to google play if previously disconnected. - UNINSTALL - Fully uninstall iYTBP: root version, magisk module, and detach module.",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Vanced MicroG APK",
+					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
 				},
 				{
-					"image": "",
-					"text": "",
+					"image": "https://setnas-asean.id/wp-content/uploads/2022/08/Youtube-Vanced.jpg",
+					"text": "Using the ytva plz files (use only the ones you want and should be placed in /sdcard/Download/)  ​- ytva_install_via_magisk.plz - Use magisk module installation instead of root installation - ytva_detach_from_playstore.plz - Detach You Tube from google play to disable update notifications.​ - ytva_attach_to_playstore.plz - Attach You Tube to google play if it was previously detached. - ytva_uninstall.plz - Completely uninstall iYTBP: root version, magisk module, and detach module.",
 					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "Download Vanced MicroG APK",
 					"cpa_url": ""
 				}
 				]
             }, {
-                "title": "STEP4",
-                "image": "",
+                "title": "Credits",
+                "image": "https://i.imgur.com/klXwbkc.png",
                 "detail": [{
-					"image": "",
-					"text": "",
+					"image": "https://i.imgur.com/klXwbkc.png",
+					"text": "iYTBP (injected YouTube Background Playback) formerly developed by Master_T, a senior contributor on XDA forums has discontinued the project and some other developers have taken that project and renamed it as "Vanced".  Now the Team Vanced continuing it with official YouTube app updates.  Credits for iYTBP developer We must thank XDA Senior Dev Master_T for making the app with the idea of Xposed Module of You Tube Background Playback.  Credits for Team Vanced All thanks go to the below team of XDA developers for continuing the iYTBP project as YouTube Vanced with so many added advanced features.  @Razerman (Mods and Theming) @Zanezam (Publishing)​ @Laura almeida (Theming) @KevinX8 (Magisk Module)",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
+					"cpa_title": "Download Vanced MicroG APK",
+					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
 				},
 				{
 					"image": "",
 					"text": "",
 					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": ""
-				}
-				]
-            }, {
-                "title": "STEP5",
-                "image": "",
-                "detail": [{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "link"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": true,
-					"cpa_title": "Open",
+					"cpa_title": "",
 					"cpa_url": ""
 				}
 				]
