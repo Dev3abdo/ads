@@ -38,7 +38,7 @@
 				},
 				{
 					"image": "https://i0.wp.com/www.androidsage.com/wp-content/uploads/2022/04/YouTube-Vanced-MicroG-APK-Download.png",
-					"text": "* For Root: If your Android device is Rooted, follow these instructions to install the app.  Download and install the latest Vanced Manager from our website.​ Open the Vanced manager app and tap on the "Magisk" icon to grant root permissions.​ Once you are done, install YouTube Vanced or YouTube Music Vanced.",
+					"text": "* For Root: If your Android device is Rooted, follow these instructions to install the app.  Download and install the latest Vanced Manager from our website.​ Open the Vanced manager app and tap on the -Magisk- icon to grant root permissions.​ Once you are done, install YouTube Vanced or YouTube Music Vanced.",
 					"native": true,
 					"cpa_title": "Download Vanced MicroG APK",
 					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
@@ -49,7 +49,7 @@
                 "image": "https://apkmodule.com/media/2022/10/_3/760x450/vanced-microg-apk_9ad1d.jpg",
                 "detail": [{
 					"image": "https://apkmodule.com/media/2022/10/_3/760x450/vanced-microg-apk_9ad1d.jpg",
-					"text": "- Disabling "APK signature verification" is no longer required. - The magisk root version was discontinued and removed from the magisk repository because Google switched to Split APKs format. So we replaced our root installation with the new Vanced Manager, directly mounts vanced on the top of /data/app directory of Youtube, making more easier and faster. - Vanced won't block ads while using the casting feature, it doesn't cast the video from your device to the Chromecast/TV. Instead, your android device will act as a remote controller for the Youtube app in your Chromecast/TV. That is why the ads are displayed.",
+					"text": "- Disabling APK signature verification is no longer required. - The magisk root version was discontinued and removed from the magisk repository because Google switched to Split APKs format. So we replaced our root installation with the new Vanced Manager, directly mounts vanced on the top of /data/app directory of Youtube, making more easier and faster. - Vanced won't block ads while using the casting feature, it doesn't cast the video from your device to the Chromecast/TV. Instead, your android device will act as a remote controller for the Youtube app in your Chromecast/TV. That is why the ads are displayed.",
 					"native": true,
 					"cpa_title": "Download Vanced MicroG APK",
 					"cpa_url": "https://virasport.blogspot.com/2022/12/vanced-microg-apk.html"
