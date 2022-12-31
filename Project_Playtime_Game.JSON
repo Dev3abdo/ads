@@ -6,16 +6,16 @@
 	"applovininter": "4dd2f49881e9d4f9",
 	"applovinreward": "4a15092a13ed0a98",
 	
-	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
-	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+	"admobbannerId": "ca-app-pub-1006668173301448/3563880490",
+	"admobInterId": "ca-app-pub-1006668173301448/7311553817",
+	"admobReward": "ca-app-pub-1006668173301448/9746145460",
 
 
 
 "adsSwitch detail ": " 1:admob 2:applovin 0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
 
 "adscounter": "1"
 
