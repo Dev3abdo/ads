@@ -2,7 +2,7 @@
   "Json_Data": [
     {
 
-      "HouseAds_package": "com.abdo.guideone",
+      "HouseAds_package": "com.mygfx.bidguide",
       "HouseAds_title": "Subway Surfers 35",
       "HouseAds_discripton": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
       "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
@@ -59,7 +59,7 @@
       "Show_help_toast"     : "yes",
 
       "ClicksTo_showAd": "2",
-      "Active_PackageName": "com.abdo.guideone",
+      "Active_PackageName": "com.mygfx.bidguide",
       "OnBack_ClicksTo_showAd": "10",
 
       "Show_Wallpapers_Button"     : "yes",
