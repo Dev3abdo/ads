@@ -50,22 +50,22 @@
   "guides": [
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "Wiimote Controller About",
+	 "text": "To use a Wiimote controller with your Android device, you can follow these steps: Step 1: Check Compatibility Ensure that your Android device supports Bluetooth connectivity and is compatible with the Wiimote controller. Not all Android devices may support this feature. Step 2: Install the App Go to the Google Play Store on your Android device and search for a Wiimote controller app. There are several apps available, such as 'Wiimote Controller,' 'WiiMote,' or 'Wiimote Controller IME.' Choose one that has good reviews and ratings. Step 3: Enable Bluetooth Turn on Bluetooth on your Android device. You can usually find this option in the Settings menu, under the 'Connections' or 'Wireless & networks' section. Make sure Bluetooth is enabled and set your device to discoverable mode. Step 4: Pair the Wiimote Press the '1' and '2' buttons simultaneously on your Wiimote controller to put it into discoverable mode. This allows your Android device to detect and pair with the controller. Step 5: Open the Wiimote Controller App Launch the Wiimote controller app you installed earlier. Grant any necessary permissions it requires, such as Bluetooth access.",
+	 "text_two": "Step 6: Connect the Controller Within the app, there should be an option to scan for nearby Bluetooth devices. Tap on it, and your Android device should detect the Wiimote controller. Select the controller from the list of available devices to establish a connection. Step 7: Configure Controls After connecting the Wiimote controller, you may need to map the controller buttons to corresponding actions or keys on your Android device. This mapping process varies depending on the app you're using. Some apps provide an intuitive interface for mapping controls, while others may require manual configuration. Step 8: Test the Controller Once you've configured the controls, test the Wiimote controller by launching a compatible game or application on your Android device. Ensure that the buttons, motion controls, and other features of the controller are functioning correctly. Please note that the specific steps and app interfaces may vary depending on the Wiimote controller app you choose. Make sure to refer to the app's documentation or help section if you encounter any difficulties during the setup process.",
 
 	 "isLocked": false,
 	 "id": 1,
 	 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
-	 "BtnTXT": "Click Here"
+	 "BtnURL": "",
+	 "BtnTXT": "Download App"
 	},
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "How To Use",
+	 "text": "To use a Wiimote controller with an Android device, follow these general steps: Step 1: Prepare Your Android Device Make sure your Android device supports Bluetooth connectivity and is compatible with the Wiimote controller. Additionally, ensure that your Android device is charged and has sufficient battery power. Step 2: Install the Wiimote Controller App Go to the Google Play Store on your Android device and search for a Wiimote controller app. Some popular options include 'Wiimote Controller,' 'WiiMote,' or 'Wiimote Controller IME.' Choose an app that suits your needs and has positive reviews. Step 3: Enable Bluetooth On your Android device, navigate to the Settings menu. Look for the 'Connections,' 'Wireless & networks,' or similar option and find the Bluetooth settings. Enable Bluetooth and set your device to discoverable mode. Step 4: Pair the Wiimote Controller Put your Wiimote controller into discoverable mode by pressing and holding the '1' and '2' buttons simultaneously. The lights on the controller should start blinking. This makes it discoverable by your Android device.",
+	 "text_two": "On your Android device, within the Bluetooth settings, scan for nearby devices. Your Wiimote controller should appear in the list of available devices. Tap on it to initiate the pairing process. Step 5: Connect the Wiimote Controller Open the Wiimote controller app you installed earlier. Within the app, there should be an option to scan for available Bluetooth devices. Tap on it, and your Android device should detect the Wiimote controller. Select the controller from the list of available devices to establish a connection. Step 6: Configure Controls Once the Wiimote controller is connected, you may need to configure the control mapping. This step allows you to assign specific buttons or motions on the controller to corresponding actions on your Android device. The process for configuring controls will depend on the app you're using. Some apps provide an intuitive interface for mapping controls, while others may require manual configuration. Step 7: Test the Controller Launch a compatible game or application on your Android device and test the Wiimote controller to ensure it is working correctly. Try pressing buttons, using motion controls, or any other features supported by the controller. Verify that the controls are responding as expected in the game or application. Remember, the exact steps and options may differ depending on the Wiimote controller app you choose. Consult the app's documentation or help section if you encounter any issues or need further instructions.",
 
 	 "isLocked": true,
 	 "id": 2,
@@ -76,22 +76,22 @@
 	},
 	{
 	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "Features",
+	 "text": "Wiimote controllers offer various features that can enhance your gaming experience on Android devices. Here are some of the key features: Button Controls: Wiimote controllers have a standard set of buttons, including A, B, 1, 2, +, -, Home, and directional buttons (D-pad). These buttons allow you to navigate menus, select options, and perform actions in games or applications. Motion Controls: One of the unique features of the Wiimote controller is its motion-sensing capabilities. It contains an accelerometer and a gyroscope, enabling you to control games or apps by physically moving the controller. For example, you can tilt the controller to steer in racing games or swing it like a tennis racket in sports games. Infrared (IR) Pointer: The Wiimote controller has an infrared (IR) sensor that can be used as a pointing device. Some apps and games utilize this feature to allow you to point at specific objects on the screen by aiming the controller. This feature is particularly useful for games that require precise aiming or selecting targets. Rumble Feedback: Wiimote controllers include a built-in rumble motor that provides haptic feedback. This vibration feature enhances immersion by simulating tactile sensations, such as the feeling of impact or vibration in response to in-game events.",
+	 "text_two": "Speaker: The Wiimote controller has a built-in speaker, which can play sound effects, music, or voice recordings. Some games or applications utilize this feature to provide audio feedback directly from the controller, creating a more immersive experience. Battery Life: Wiimote controllers typically have a decent battery life, allowing you to play for extended periods without frequent recharging. The exact battery life may vary depending on usage and the quality of the batteries used. Wireless Connectivity: Wiimote controllers connect to your Android device via Bluetooth, offering wireless convenience and freedom of movement while playing games or using applications. These are some of the main features offered by Wiimote controllers when used with Android devices. Keep in mind that the availability and functionality of these features may depend on the specific app or game you're using, as well as the compatibility of your Android device with the Wiimote controller.",
 
 	 "isLocked": false,
 	 "id": 3,
 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
-	 "BtnTXT": "Click"
+	 "BtnURL": "",
+	 "BtnTXT": "Download App"
 	},
 	{
 	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "Proper Use",
+	 "text": "To properly use a Wiimote controller with an Android device, follow these guidelines: Compatibility: Ensure that your Android device is compatible with the Wiimote controller and supports Bluetooth connectivity. Not all Android devices are compatible, so check the device specifications or consult the manufacturer's documentation. App Installation: Install a Wiimote controller app from the Google Play Store. Choose a reputable app with positive reviews and ratings. Some popular options include 'Wiimote Controller,' 'WiiMote,' or 'Wiimote Controller IME.' Bluetooth Setup: Enable Bluetooth on your Android device. Go to the Settings menu, find the 'Connections,' 'Wireless & networks,' or similar option, and enable Bluetooth. Set your device to discoverable mode so that it can find the Wiimote controller. Pairing: Put your Wiimote controller into discoverable mode by simultaneously pressing and holding the '1' and '2' buttons. The controller lights should start blinking. On your Android device, scan for nearby Bluetooth devices and select the Wiimote controller from the list. Follow any prompts to complete the pairing process.",
+	 "text_two": "App Configuration: Open the Wiimote controller app you installed and follow the app's instructions for configuration. This typically involves selecting the connected Wiimote controller and mapping its buttons and controls to corresponding actions or keys on your Android device. Configure the settings according to your preferences. Testing: Launch a compatible game or application on your Android device and start using the Wiimote controller. Test the buttons, motion controls, and any other features supported by the controller to ensure they function as expected. Troubleshooting: If you encounter any issues, consult the documentation or help section of the Wiimote controller app. It may provide troubleshooting tips or additional configuration options to resolve problems. Remember to refer to the specific instructions provided by the Wiimote controller app you choose, as the interface and configuration process may differ slightly between apps. By following these steps and utilizing the features of the Wiimote controller, you can enhance your gaming experience on your Android device.",
 
 	 "isLocked": false,
 	 "id": 4,
@@ -102,9 +102,9 @@
 	},
 	{
 	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "More Tips",
+	 "text": "Certainly! Here are some additional tips for using a Wiimote controller with your Android device: Check App Compatibility: Before installing a Wiimote controller app, check its compatibility with the games or applications you intend to use. Not all apps support all games, so ensure that the app you choose works well with your preferred titles. Controller Positioning: When using motion controls, be mindful of how you hold and position the Wiimote controller. Different games may require specific orientations or movements. Familiarize yourself with the control scheme of each game to ensure optimal performance. Button Mapping: If the Wiimote controller app allows for button mapping, take advantage of this feature to customize the controls according to your preferences. Some games may have default mappings that can be adjusted to suit your playstyle or ergonomic needs. Controller Sensitivity: Wiimote controllers often offer options to adjust the sensitivity of motion controls. Experiment with different sensitivity settings to find the one that feels most comfortable and responsive for your gameplay.",
+	 "text_two": "Battery Conservation: To conserve battery life, consider using rechargeable batteries or a rechargeable battery pack for your Wiimote controller. It can save you money in the long run and reduce environmental waste. Additionally, remember to turn off the controller and disconnect it from your Android device when not in use. Firmware Updates: Occasionally, manufacturers release firmware updates for Wiimote controllers. Check for updates from the app developer or the official Wiimote controller website to ensure you have the latest firmware version. These updates may introduce bug fixes, performance improvements, or compatibility enhancements. Explore Different Apps: There are multiple Wiimote controller apps available on the Google Play Store. If you encounter compatibility issues or face limitations with one app, consider trying out alternative apps to find the one that suits your needs and works best with your Android device and games. Game-Specific Settings: Some games may have specific in-game settings or options that allow you to optimize the Wiimote controller experience. Check the settings menu within the game itself to see if there are any adjustments you can make to enhance compatibility or customize the controls. Remember to consult the documentation or help section of the Wiimote controller app for more detailed instructions and tips specific to that particular app. Happy gaming!",
 
 	 "isLocked": false,
 	 "id": 5,
@@ -115,9 +115,9 @@
 	},
 	{
 	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "Conclusion",
+	 "text": "In conclusion, using a Wiimote controller with your Android device can provide an enhanced gaming experience. By following the steps outlined in the guide, you can set up and connect the controller to your Android device. Take advantage of features such as button controls, motion controls, infrared pointing, rumble feedback, and the built-in speaker to enjoy a wide range of games and applications. It's important to ensure compatibility between your Android device and the Wiimote controller, and to choose a reliable Wiimote controller app from the Google Play Store. Configure the controls and mappings within the app to suit your preferences, and test the controller's functionality in compatible games or applications.",
+	 "text_two": "Remember to check for firmware updates for your Wiimote controller and explore different apps if you encounter any compatibility issues. Additionally, consider battery conservation methods and explore game-specific settings to optimize your gaming experience. By following these tips and guidelines, you can make the most of your Wiimote controller and enjoy a seamless and immersive gaming experience on your Android device. Have fun gaming!",
 
 	 "isLocked": false,
 	 "id": 6,
