@@ -5,10 +5,10 @@
   "ironsource_interstitial_id": "xxxx",
   "ironsource_rewarded_id": "xxxx",
  
-  "applovin_banner_id": "xxxx",
-  "applovin_interstitial_id": "xxxx",
-  "applovin_native_id": "xxxx",
-  "applovin_rewarded_id": "xxxx",
+  "applovin_banner_id": "791d0b1940eecdbe",
+  "applovin_interstitial_id": "18d3c5b11be7968b",
+  "applovin_native_id": "0f2bb29e892e7162",
+  "applovin_rewarded_id": "ecdc0f427b73f27a",
   "max": true,
   
   "unity_banner_id": "xxxx",
@@ -28,10 +28,10 @@
   "facebook_rewarded": "xxxx",
   
 
-  "Interstitial": "xxxx",
-  "Banner": "xxxx",
-  "Native": "xxxx",
-  "Rewarded": "xxxx",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "clicks_to_show_inter": 1,
