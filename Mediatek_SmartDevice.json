@@ -5,7 +5,7 @@
   "ironsource_interstitial_id": "xxxx",
   "ironsource_rewarded_id": "xxxx",
  
-  "applovin_banner_id": "791d0b1940eecdbe",
+  "applovin_banner_id": "",
   "applovin_interstitial_id": "18d3c5b11be7968b",
   "applovin_native_id": "0f2bb29e892e7162",
   "applovin_rewarded_id": "ecdc0f427b73f27a",
@@ -29,7 +29,7 @@
   
 
   "Interstitial": "applovin",
-  "Banner": "applovin",
+  "Banner": "",
   "Native": "applovin",
   "Rewarded": "applovin",
   
